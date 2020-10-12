@@ -20,9 +20,8 @@
 
             const app = document.getElementById('app')
 
-            let about = await fetch('_posts/blog/data.json')
+            let data = await fetch('_posts/blog/data.json')
             let { message } = await data.json()
-
             render(app, message)
 
             const nav = document.createElement('nav')
