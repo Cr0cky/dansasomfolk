@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+</head>
+<body>
+
+    <div id="app"></div>
+    
+
+
+    <script>
+        function render (container, message) {
+        container.innerHTML = `<p>${message}</p>`
+        }
+
+        (async function () {
+
+            const app = document.getElementById('app')
+
+            let about = await fetch('_posts/blog/data.json')
+            let { message } = await about.json()
+
+            render(app, message)
+
+            const nav = document.createElement('nav')
+
+            app.appendChild(nav)
+            render(nav, `change this at the <a href="admin">admin</a>`)
+        })()
+    </script>
+</body>
+</html>
