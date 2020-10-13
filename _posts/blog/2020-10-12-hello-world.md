@@ -6,3 +6,11 @@ thumbnail: images/dansasomfolkdump.png
 rating: 5
 ---
 Nu testar vi **CMS**.
+
+* Nummer 1
+
+Text:
+  text2:
+    - take 1
+    - take 2
+    - take 3
