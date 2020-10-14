@@ -184,7 +184,7 @@ const newsFromCMS = document.getElementById('newsFromCMS');
 
 
 
-let data = fetch('../index.md')
+let data = fetch('index.md')
   .then(response => response.text())
   .then(result => {
 
