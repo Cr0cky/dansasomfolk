@@ -1,20 +1,24 @@
 @font-face {
-  	font-family: Morganite;
-	src: url('Morganite-Medium.ttf') format("truetype");
+  font-family: Morganite;
+  src: url('Morganite-Medium.ttf') format("truetype");
+  font-display: swap;
 }
 @font-face {
-  	font-family: Morganite;
+  font-family: Morganite;
 	src: url('Morganite-Bold.ttf') format("truetype");
-	font-weight: bold;
+  font-weight: bold;
+  font-display: swap;
 }
 @font-face {
-  	font-family: Orkney;
-	src: url('Orkney Regular.woff');
+  font-family: Orkney;
+  src: url('Orkney Regular.woff');
+  font-display: swap;
 }
 @font-face {
-  	font-family: Orkney;
+  font-family: Orkney;
 	src: url('Orkney Bold.woff');
-	font-weight: bold;
+  font-weight: bold;
+  font-display: swap;
 }
  body {
     margin: 0;
