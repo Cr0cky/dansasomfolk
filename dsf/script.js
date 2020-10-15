@@ -228,7 +228,7 @@ let data = fetch('../_posts/news/index.md')
         <div class="dansgruppWrapper">
           <div class="left">	
             <div class="bildWrapper">
-              <img src="` + key.image +`" class="bildDansgrupp" alt="Nyhetsbild">
+              <img src="../` + key.image +`" class="bildDansgrupp" alt="Nyhetsbild">
             </div>
           </div>
           <div class="right">` + paragraphToDiv(converter.makeHtml(key.body)) + `</p>
