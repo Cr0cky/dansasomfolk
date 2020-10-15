@@ -352,9 +352,6 @@ hr{
   font-size: 9px;
   margin-left: 15px;
 }
-.contentWrapperFooter{
-
-}
 .middleInFooter{
   flex-grow: 1;
 }
@@ -415,13 +412,6 @@ hr{
   margin: auto;
 }
 .bildDansgrupp{
-  /*max-width: 100%;*/
-  /*max-height: 100vh;*/
-
-  /*margin: auto;*/
-  /*max-width: 100%;
-  height: auto;*/
-  /*object-fit: contain;*/
   width: 25vw;
 }
 @media only screen and (max-width: 900px) {
@@ -444,79 +434,6 @@ hr{
 }
 /*************************************************************************************************************/
 
-
-
-
-
-
-
-
-/* Dansgrupper, bildgalleri */
-/*
-div.gallery {
-  border: 1px solid #333;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  overflow: auto;
-  cursor: pointer;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-  box-shadow: none;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-  color: black;
-  height: 60px;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsivePicture {
-  padding: 6px;
-  float: left;
-  width: 24.99999%;
-  
-}
-
-@media only screen and (max-width: 700px) {
-  .responsivePicture {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsivePicture {
-    width: 100%;
-  }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-*/
-/* Dansgrupper, bildgalleri  SLUT */
-
-
-
-
-
-/*************************************************************************************************************/
-/*************************************************************************************************************/
-/*************************************************************************************************************/
-/*************************************************************************************************************/
 
 
 
