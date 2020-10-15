@@ -351,6 +351,10 @@ hr{
 .footerEpost{
   font-size: 9px;
   margin-left: 15px;
+
+}
+a.footerEpost:hover, a.footerEpost:active, a.footerEpost:visited, a.footerEpost:link{
+  color: white;
 }
 .middleInFooter{
   flex-grow: 1;
