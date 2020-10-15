@@ -190,7 +190,7 @@ let data = fetch('../_posts/news/index.md')
 
     // Konverterar YAML till objekt.
     let yamlAsObject = yamlFront.loadFront(result);
-    
+    console.log(yamlAsObject);
     // Konverterar markdown till HTML.
     converter = new showdown.Converter();
     let description = converter.makeHtml(yamlAsObject.description);
@@ -228,7 +228,7 @@ let data = fetch('../_posts/news/index.md')
         <div class="dansgruppWrapper">
           <div class="left">	
             <div class="bildWrapper">
-              <img src="newspaper.jpg" class="bildDansgrupp" alt="Nyhetsbild">
+              <img src="` + key.image +`" class="bildDansgrupp" alt="Nyhetsbild">
             </div>
           </div>
           <div class="right">` + paragraphToDiv(converter.makeHtml(key.body)) + `</p>

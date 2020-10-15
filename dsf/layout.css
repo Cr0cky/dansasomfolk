@@ -355,6 +355,7 @@ hr{
 }
 a.footerEpost:hover, a.footerEpost:active, a.footerEpost:visited, a.footerEpost:link{
   color: white;
+  text-decoration: none;
 }
 .middleInFooter{
   flex-grow: 1;
