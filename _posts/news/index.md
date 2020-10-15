@@ -4,6 +4,14 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2020-10-15T09:09:07.229Z
+      title: Danskurs för noviser på AV
+      body: Vi drar igång en ny kurs på torsdag 17.9.2020 kl.19-20.30. Vi dansar i
+        Arbetes vänners lokal på Formansgatan 14 i Vasa. Dina dansfärdigheter
+        kan vara lika med 0 och du behöver inte ha med ett par. Vi dansar lätta
+        pardanser redan från början. På våra sidor i facebook och instagram har
+        vi presenterat höstens och vårens progam. Kursen är gratis.
+      image: images/newspaper.jpg
     - date: 2020-10-13T09:51:47.351Z
       image: images/newspaper.jpg
       title: Solf Folkdanslag håller paus under hösten
