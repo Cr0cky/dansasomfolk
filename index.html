@@ -1,26 +1,134 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+<!doctype html>
+<html lang="sv">
+
+	<head>
+		<title>dansa som Folk! | Folkdans i Österbotten</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<meta name="description" content="Folkdans i Österbotten.">
+		<meta name="keywords" content="folkdans, Folkdansgrupper i Österbotten, folkdans i österbotten, folk, dans, kurs, aktuellt, börja folkdansa, Österbotten, österbotten, Vasa, Jakobstad, Solf, Vörå, svenskfinland, finlandssvensk, barndans, otakt, danskurs, Silverspännet, Solf Folkdanslag, Brage folkdanslag, Vörå Folkdanslag, Vestersundsby">
+		
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		
+		<!-- Scrollmagic -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.min.js"></script>
+		
+		<!-- Egna script -->
+		<link href="css/layout.css" rel="stylesheet" type="text/css">
+		<script src="js/script.js" type="text/javascript" defer></script>
+		<link rel="icon" href="data:;base64,iVBORw0KGgo=">
+		
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24754195-2"></script>
+		<script>
+  			window.dataLayer = window.dataLayer || [];
+ 			function gtag(){dataLayer.push(arguments);}
+ 			gtag('js', new Date());
+
+ 			gtag('config', 'UA-24754195-2');
+		</script>
+
+    <!-- Netlify CMS -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
-<body>
-        hej igen!
+		
+		
+	</head>
+	
+	<body>
+		
+		<div class="meny">
+			<div class="topnav" id="myTopnav">
+				<a href="index.html" id="index" class="btn">dansa som Folk!</a>
+				<a href="dansgrupper.html" id="dansgrupper" class="btn">Dansgrupper</a>
+				<a href="aktuellt.html" id="aktuellt" class="btn">Aktuellt</a>
+				<a href="ovasjalv.html" id="ovasjalv" class="btn">Öva själv</a>
+				<a href="kontakt.html" id="kontakt" class="btn">Kontakt</a>
+				<a href="http://www.facebook.com" class="insta"><img src="images/facebook.png" id="instaLogo"></a>	
+				<a href="http://www.instagram.com/dansasomfolk" class="insta"><img src="images/instagramVit.png" id="instaLogo"></a>		
+				<a class="icon btn"><i class="fa fa-bars"></i></a>
+			</div>
+		</div>
+	
+	
+	
 
+		<div class="parallax slide" id="parallax">
 
+			<div class="row">
+			
+	
 
-        <script>
-            if (window.netlifyIdentity) {
-              window.netlifyIdentity.on("init", user => {
-                if (!user) {
-                  window.netlifyIdentity.on("login", () => {
-                    document.location.href = "/admin/";
-                  });
-                }
-              });
-            }
-        </script>
-</body>
+				<div class="video-container">
+					<video  autoplay muted loop>
+						<source src="video/dansvideoSvangd.mp4" type="video/mp4" />
+					</video>
+				</div>
+			
+				<div class="videoContent2">
+					<h1 id="h1onTopOfVideo">dansa som Folk!</h1>
+					<hr>
+					<div>verkar för synliggörandet av</div>
+					<div>folkdansen i Österbotten</div>
+				</div>
+				
+			</div>
+			
+		</div>
+ 
+		<div class="slidein slide" id="slidein">
+		
+			<div class="row">
+			
+
+				
+				
+				
+				
+				<div id="inforuta">
+					<h1>dansa som Folk!</h1>
+					vill informera om folkdans och synliggöra folkdansgrupper i Österbotten.
+					Bekanta dig gärna med materialet här. Se vad som är aktuellt, öva på några danssteg, eller titta närmare på en dansgrupp. Och framför allt, kom med och dansa!
+				</div>
+				
+			</div>
+			
+		</div>
+ 
+		<div class="slidein2 slide" id="slidein2">
+		
+			<div class="row">
+			
+				
+
+				
+				
+				
+				<div id="left">
+					<div><a href="dansgrupper.html"><h1>Dansgrupper</h1></a></div>
+
+					<div><a href="aktuellt.html"><h1>Aktuellt</h1></a></div>
+
+					<div><a href="ovasjalv.html"><h1>Öva själv</h1></a></div>
+				</div>
+				
+			</div>
+		</div>
+
+  
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+	</body>
 </html>

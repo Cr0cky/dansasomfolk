@@ -9,7 +9,7 @@ collections:
     - label: "Pages"
       name: "pages"
       files:
-      - file: "_posts/news/index.md"
+      - file: "posts/news/index.md"
         label: "News" # Used in the UI
         name: "news" # Used in routes, e.g., /admin/collections/blog
         description: "News page"
