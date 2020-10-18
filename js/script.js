@@ -182,9 +182,21 @@ const ingressAktuellt = document.getElementById('ingressAktuellt');
 const sidTitelAktuellt = document.getElementById('sidTitelAktuellt');
 const newsFromCMS = document.getElementById('newsFromCMS');
 
+// Plockar ut namnet på aktuell HTML-sida.
+let getPageName = () => {
+  let lastSlashAt = window.location.toString().lastIndexOf("/", window.location.toString().length);
+  return window.location.toString().slice(lastSlashAt);
+
+}
+console.log(getPageName());
 
 
-let data = fetch('../_posts/news/index.md')
+if(getPageName() === "/aktuellt.html"){
+  console.log("Hepp!")
+}
+
+
+let data = fetch('../md/aktuellt.md')
   .then(response => response.text())
   .then(result => {
 
