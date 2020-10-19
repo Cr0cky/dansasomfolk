@@ -256,6 +256,11 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
         fromCMS.innerHTML += mallForHTMLAktuellt;
         }
         else if(getPageName() === "/dansgrupper.html"){
+
+          let http = "";
+          if(key.webb !== ""){
+            http = `<a href="` + key.webb + `">` + stripHtml(converter.makeHtml(key.title)) + `</a>`;
+          }
           let mallForHTMLDansgrupp = `
             <hr class="hrDansgrupper">
             <div class="dansgrupp">
@@ -278,7 +283,7 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
                   <br>
                   <b>Ledare: </b>` + paragraphToSpan(converter.makeHtml(key.ledare)) + `
                   <br>
-                  <b>Webb: </b> <a href="` + stripHtml(converter.makeHtml(key.webb)) + `">` + stripHtml(converter.makeHtml(key.title)) + `</a>
+                  <b>Webb: </b> `+ http + `</a>
                 </div>
               </div>
             </div>

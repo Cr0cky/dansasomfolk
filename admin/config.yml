@@ -26,7 +26,7 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "groups-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: "Title", name: "title", widget: "string"}, {label: Body, name: body, widget: markdown}, {label: Plats, name: plats, widget: string}, {label: Tid, name: tid, widget: string}, {label: Ledare, name: ledare, widget: string}, {label: Webb, name: webb, widget: string}, {label: Image, name: image, widget: image}, {label: "Publish Date", name: "date", widget: "datetime"}]}]}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: "Title", name: "title", widget: "string"}, {label: Body, name: body, widget: markdown}, {label: Plats, name: plats, widget: string}, {label: Tid, name: tid, widget: string}, {label: Ledare, name: ledare, widget: string}, {label: Webb, name: webb, widget: string, required: false}, {label: Image, name: image, widget: image}, {label: "Publish Date", name: "date", widget: "datetime"}]}]}
       - file: "md/ovasjalv.md"
         label: "Öva själv" # Used in the UI
         name: "ovasjalv" # Used in routes, e.g., /admin/collections/blog
