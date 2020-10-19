@@ -40,7 +40,7 @@ intro:
       plats: Tölby HF, Korsholm
       tid: "varannan måndag kl.19:00 "
       ledare: Annina Ylikoski
-      webb: "-"
+      webb: ""
       image: /images/uploads/tolbyhf.jpg
     - date: 2020-10-19T11:50:59.348Z
       title: Arbetets vänners folkdans
@@ -72,7 +72,7 @@ intro:
       plats: "Karvsor skola, Vörå "
       tid: Valda söndagar, kl. 18.00 - 20.15
       ledare: "Gösta Småros, tfn 044-3808006 "
-      webb: "-"
+      webb: ""
       image: /images/uploads/karvsorskolacompress.jpg
     - date: 2020-10-19T11:54:00.318Z
       title: Folkdans i Jakobstadsnejden
