@@ -4,7 +4,17 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
-    - date: 2020-10-18T18:09:42.262Z
+    - date: 2020-06-11T11:30:21.183Z
+      title: dansa som Folk! instruerar i ditt vardagsrum
+      body: >-
+        Nu mer än någonsin finns efterfrågan på utbildningsmaterial på nätet.
+        dansa som Folk! har gjort instruktionsvideor och publicerar nu dessa på
+        vår webbplats. Öva framför tv:n, eller var som helst.
+
+
+        [Klicka](http://dansasomfolk.s3-website-eu-west-1.amazonaws.com/ovasjalv.html) här och ta fram dansskorna.
+      image: /images/uploads/newspaper.jpg
+    - date: 2020-04-11T18:09:42.262Z
       title: Kurs i menuett som dansas på de gamlas dag
       body: >-
         Kom och lär dig en enkel grundmenuett som passar bra även för skolans
