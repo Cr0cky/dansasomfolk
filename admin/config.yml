@@ -10,11 +10,20 @@ collections:
       name: "pages"
       files:
       - file: "md/aktuellt.md"
-        label: "News" # Used in the UI
-        name: "news" # Used in routes, e.g., /admin/collections/blog
+        label: "Aktuellt" # Used in the UI
+        name: "aktuellt" # Used in routes, e.g., /admin/collections/blog
         description: "News page"
         fields: # The fields for each document, usually in front matter
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "news-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: Description, name: description, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: "Title", name: "title", widget: "string"}, {label: Body, name: body, widget: markdown}, {label: Image, name: image, widget: image}, {label: "Publish Date", name: "date", widget: "datetime"}]}]}
+      - file: "md/dansgrupper.md"
+        label: "Dansgrupper" # Used in the UI
+        name: "dansgrupper" # Used in routes, e.g., /admin/collections/blog
+        description: "News page"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "groups-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Description, name: description, widget: string}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: "Title", name: "title", widget: "string"}, {label: Body, name: body, widget: markdown}, {label: Plats, name: plats, widget: string}, {label: Tid, name: tid, widget: string}, {label: Ledare, name: ledare, widget: string}, {label: Webb, name: webb, widget: string}, {label: Image, name: image, widget: image}, {label: "Publish Date", name: "date", widget: "datetime"}]}]}

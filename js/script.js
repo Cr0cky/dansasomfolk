@@ -190,64 +190,67 @@ let getPageName = () => {
 }
 console.log(getPageName());
 
+// Kollar om script som krävs för CMS:et finns med.
+let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
+let mappedScripts = scriptsAsArray.map(function (value, index){
+    console.log(value.src);
+    if(scriptsAsArray[index].src.includes("yamlFront.js")){
+      // Hämtar data från aktuell HTML-sida   Tanken här är att alla HTML-sidor har samma namn som respektive MD-fil.
+      let data = fetch('../md/' + getPageName().replace(".html", ".md"))
+      .then(response => response.text())
+      .then(result => {
 
-if(getPageName() === "/aktuellt.html"){
-  console.log("Hepp!")
-}
+        // Konverterar YAML till objekt.
+        let yamlAsObject = yamlFront.loadFront(result);
+        console.log(yamlAsObject);
+        // Konverterar markdown till HTML.
+        converter = new showdown.Converter();
+        let description = converter.makeHtml(yamlAsObject.description);
+        let title = converter.makeHtml(yamlAsObject.title);
 
 
-let data = fetch('../md/aktuellt.md')
-  .then(response => response.text())
-  .then(result => {
+        // Ställer in rubrik för sida, och ingress.
+        ingressAktuellt.innerHTML =  description;
+        sidTitelAktuellt.innerHTML = title;
 
-    // Konverterar YAML till objekt.
-    let yamlAsObject = yamlFront.loadFront(result);
-    console.log(yamlAsObject);
-    // Konverterar markdown till HTML.
-    converter = new showdown.Converter();
-    let description = converter.makeHtml(yamlAsObject.description);
-    let title = converter.makeHtml(yamlAsObject.title);
-  
+        // Funktioner för att behandla HTML-taggar.
+        function stripHtml(html){
+          let doc = new DOMParser().parseFromString(html, 'text/html');
+          return doc.body.textContent || "";
+        }
+        function paragraphToDiv(html){
+          return (html.replace("<p>", "<div>")).replace("</p>", "</div>");
+        }
+        
+        var dateOptions = {  
+          year: "numeric",  
+          month: "long",  
+          day: "numeric" 
+        };
 
-    // Ställer in rubrik för sida, och ingress.
-    ingressAktuellt.innerHTML =  description;
-    sidTitelAktuellt.innerHTML = title;
-
-    // Funktioner för att behandla HTML-taggar.
-    function stripHtml(html){
-      let doc = new DOMParser().parseFromString(html, 'text/html');
-      return doc.body.textContent || "";
-    }
-    function paragraphToDiv(html){
-      return (html.replace("<p>", "<div>")).replace("</p>", "</div>");
-    }
-    
-    var dateOptions = {  
-      year: "numeric",  
-      month: "long",  
-      day: "numeric" 
-    };
-
-    // Loopar in HTML i DOM.
-    (yamlAsObject.intro.blurbs).map(function(key, index){
-      let mallForHTML = `
-      <hr class="hrDansgrupper">
-      <div class="dansgrupp">
-        <div class="dansgruppRubrik">
-          <h1 class="aktuelltRubrik">` + paragraphToDiv(converter.makeHtml(key.title)) + `</h1>`
-          + stripHtml(converter.makeHtml((new Date(key.date)).toLocaleDateString("se-FI", dateOptions))) + `
-        </div>
-        <div class="dansgruppWrapper">
-          <div class="left">	
-            <div class="bildWrapper">
-              <img src="../` + key.image +`" class="bildDansgrupp" alt="Nyhetsbild">
+        // Loopar in HTML i DOM.
+        (yamlAsObject.intro.blurbs).map(function(key, index){
+          let mallForHTML = `
+          <hr class="hrDansgrupper">
+          <div class="dansgrupp">
+            <div class="dansgruppRubrik">
+              <h1 class="aktuelltRubrik">` + paragraphToDiv(converter.makeHtml(key.title)) + `</h1>`
+              + stripHtml(converter.makeHtml((new Date(key.date)).toLocaleDateString("se-FI", dateOptions))) + `
+            </div>
+            <div class="dansgruppWrapper">
+              <div class="left">	
+                <div class="bildWrapper">
+                  <img src="../` + key.image +`" class="bildDansgrupp" alt="Nyhetsbild">
+                </div>
+              </div>
+              <div class="right">` + paragraphToDiv(converter.makeHtml(key.body)) + `</p>
+              </div>
             </div>
           </div>
-          <div class="right">` + paragraphToDiv(converter.makeHtml(key.body)) + `</p>
-          </div>
-        </div>
-      </div>
-    `;
-    newsFromCMS.innerHTML += mallForHTML;
-  });
+        `;
+        newsFromCMS.innerHTML += mallForHTML;
+      });
+      });
+    }
 });
+
