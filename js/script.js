@@ -285,6 +285,32 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
           `;
           fromCMS.innerHTML += mallForHTMLDansgrupp;
         }
+        else if(getPageName() === "/ovasjalv.html"){
+          console.log(stripHtml(converter.makeHtml(key.http)));
+          let mallForHTMLOvasjalv = `
+            <div class="dansgrupp">
+              <div class="dansgruppRubrik">
+                <h1 class="aktuelltRubrik">` + paragraphToDiv(converter.makeHtml(key.title)) + `</h1>
+                7 Juni 2020
+              </div>
+              <div class="dansgruppWrapper">
+                <div class="left">	
+                  <div class="youtubeWrapper">
+                    <iframe src="` + stripHtml(converter.makeHtml(key.http)) + `"
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen
+                        class="youtubeVideo">
+                    </iframe>
+                  </div>
+                </div>
+                <div class="right">` + paragraphToDiv(converter.makeHtml(key.body)) + `</div>
+              </div>
+            </div>
+            <hr class="hrDansgrupper">
+          `;
+          fromCMS.innerHTML += mallForHTMLOvasjalv;
+        }
       });
 
 
