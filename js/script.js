@@ -278,7 +278,7 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
                   <br>
                   <b>Ledare: </b>` + paragraphToSpan(converter.makeHtml(key.ledare)) + `
                   <br>
-                  <b>Webb: </b> <a href="` + stripHtml(converter.makeHtml(key.webb)) + `">` + stripHtml(converter.makeHtml(key.webb)) + `</a>
+                  <b>Webb: </b> <a href="` + stripHtml(converter.makeHtml(key.webb)) + `">` + stripHtml(converter.makeHtml(key.title)) + `</a>
                 </div>
               </div>
             </div>
