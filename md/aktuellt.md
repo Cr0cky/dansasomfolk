@@ -22,7 +22,7 @@ intro:
         i bland annat folkdanslagen.
 
 
-        Ordnas vid Vasa Arbis lördag 10.10.2020 kl. 12-15.\
+        Ordnas vid Vasa Arbis lördag 10.10.2020 kl. 12-15.<br>\
 
         Instruktör: Annette Westerholm.\
 
