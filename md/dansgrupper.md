@@ -23,7 +23,7 @@ intro:
       title: Brage folkdanslag
       body: Vill du göra mer än dansa med ett glatt gäng? Inom ramen för Brage i Vasa
         dansar en glad grupp. Brage uppträder med jämna mellanrum på Bragegården
-        och hjälper även till som frivilliga.
+        och hjälper även till som frivilliga..
       plats: "Cantare, Vasa "
       tid: "Onsdag kl. 19:00-20:30 "
       ledare: " Britta Lund "
