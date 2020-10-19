@@ -22,11 +22,14 @@ intro:
         i bland annat folkdanslagen.
 
 
-        Ordnas vid Vasa Arbis lördag 10.10.2020 kl. 12-15.<br>\
+        Ordnas vid Vasa Arbis lördag 10.10.2020 kl. 12-15.
 
-        Instruktör: Annette Westerholm.<br>\
 
-        Pris: 20€ för medlemmar, 25€ för icke-medlemmar. Studierabatt 5€.<br>\
+        Instruktör: Annette Westerholm.
+
+
+        Pris: 20€ för medlemmar, 25€ för icke-medlemmar. Studierabatt 5€.
+
 
         Anmälan: senast 18.9. Tel. 040-3523688, eller e-post: folkdansringen@folkdans.fi. eller [](https://folkdans.fi/kurser/)[Folkdansringen](https://folkdans.fi/kurser/).
       image: /images/uploads/newspaper.jpg
