@@ -178,9 +178,9 @@ var silverspannetOverlay = document.getElementById("overlay");
 /*************************************************************************************************************/
 /*************************************************************************************************************/
 
-const ingressAktuellt = document.getElementById('ingressAktuellt');
-const sidTitelAktuellt = document.getElementById('sidTitelAktuellt');
-const newsFromCMS = document.getElementById('newsFromCMS');
+const sidTitel = document.getElementById('sidTitel');
+const ingress = document.getElementById('ingress');
+const fromCMS = document.getElementById('fromCMS');
 
 // Plockar ut namnet på aktuell HTML-sida.
 let getPageName = () => {
@@ -193,44 +193,49 @@ console.log(getPageName());
 // Kollar om script som krävs för CMS:et finns med.
 let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
 let mappedScripts = scriptsAsArray.map(function (value, index){
-    console.log(value.src);
-    if(scriptsAsArray[index].src.includes("yamlFront.js")){
-      // Hämtar data från aktuell HTML-sida   Tanken här är att alla HTML-sidor har samma namn som respektive MD-fil.
-      let data = fetch('../md/' + getPageName().replace(".html", ".md"))
-      .then(response => response.text())
-      .then(result => {
+  if(scriptsAsArray[index].src.includes("yamlFront.js")){
 
-        // Konverterar YAML till objekt.
-        let yamlAsObject = yamlFront.loadFront(result);
-        console.log(yamlAsObject);
-        // Konverterar markdown till HTML.
-        converter = new showdown.Converter();
-        let description = converter.makeHtml(yamlAsObject.description);
-        let title = converter.makeHtml(yamlAsObject.title);
+    // Hämtar data från aktuell HTML-sida   Tanken här är att alla HTML-sidor har samma namn som respektive MD-fil.
+    let data = fetch('../md/' + getPageName().replace(".html", ".md"))
+    .then(response => response.text())
+    .then(result => {
+
+      // Konverterar YAML till objekt.
+      let yamlAsObject = yamlFront.loadFront(result);
+      console.log(yamlAsObject);
+      // Konverterar markdown till HTML.
+      converter = new showdown.Converter();
+      let description = converter.makeHtml(yamlAsObject.description);
+      let title = converter.makeHtml(yamlAsObject.title);
 
 
-        // Ställer in rubrik för sida, och ingress.
-        ingressAktuellt.innerHTML =  description;
-        sidTitelAktuellt.innerHTML = title;
+      // Ställer in rubrik för sida, och ingress.
+      sidTitel.innerHTML = title;
+      ingress.innerHTML =  description;
 
-        // Funktioner för att behandla HTML-taggar.
-        function stripHtml(html){
-          let doc = new DOMParser().parseFromString(html, 'text/html');
-          return doc.body.textContent || "";
-        }
-        function paragraphToDiv(html){
-          return (html.replace("<p>", "<div>")).replace("</p>", "</div>");
-        }
-        
-        var dateOptions = {  
-          year: "numeric",  
-          month: "long",  
-          day: "numeric" 
-        };
 
-        // Loopar in HTML i DOM.
-        (yamlAsObject.intro.blurbs).map(function(key, index){
-          let mallForHTML = `
+      // Funktioner för att behandla HTML-taggar.
+      function stripHtml(html){
+        let doc = new DOMParser().parseFromString(html, 'text/html');
+        return doc.body.textContent || "";
+      }
+      function paragraphToDiv(html){
+        return (html.replace("<p>", "<div>")).replace("</p>", "</div>");
+      }
+      function paragraphToSpan(html){
+        return (html.replace("<p>", "<span>")).replace("</p>", "</span>");
+      }
+      
+      var dateOptions = {  
+        year: "numeric",  
+        month: "long",  
+        day: "numeric" 
+      };
+
+      // Loopar in HTML i DOM.
+      (yamlAsObject.intro.blurbs).map(function(key, index){
+        if(getPageName() === "/aktuellt.html"){
+          let mallForHTMLAktuellt = `
           <hr class="hrDansgrupper">
           <div class="dansgrupp">
             <div class="dansgruppRubrik">
@@ -243,14 +248,60 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
                   <img src="../` + key.image +`" class="bildDansgrupp" alt="Nyhetsbild">
                 </div>
               </div>
-              <div class="right">` + paragraphToDiv(converter.makeHtml(key.body)) + `</p>
+              <div class="right">` + paragraphToDiv(converter.makeHtml(key.body)) + `
               </div>
             </div>
           </div>
         `;
-        newsFromCMS.innerHTML += mallForHTML;
+        fromCMS.innerHTML += mallForHTMLAktuellt;
+        }
+        else if(getPageName() === "/dansgrupper.html"){
+          let mallForHTMLDansgrupp = `
+            <hr class="hrDansgrupper">
+            <div class="dansgrupp">
+              <div class="dansgruppRubrik">
+                <h1>` + paragraphToDiv(converter.makeHtml(key.title)) + `</h1>
+              </div>
+              <div class="dansgruppWrapper">
+                <div class="left">	
+                  <div class="bildWrapper">
+                    <img src="` + key.image +`" class="bildDansgrupp">
+                  </div>
+                </div>
+                <div class="right">
+                ` + paragraphToDiv(converter.makeHtml(key.body)) + `
+                  <br>
+                  <br>
+                  <b>Plats: </b>` + paragraphToSpan(converter.makeHtml(key.plats)) + `
+                  <br>
+                  <b>Tid: </b>` + paragraphToSpan(converter.makeHtml(key.tid)) + `
+                  <br>
+                  <b>Ledare: </b>` + paragraphToSpan(converter.makeHtml(key.ledare)) + `
+                  <br>
+                  <b>Webb: </b> <a href="` + stripHtml(converter.makeHtml(key.webb)) + `">` + stripHtml(converter.makeHtml(key.webb)) + `</a>
+                </div>
+              </div>
+            </div>
+          `;
+          fromCMS.innerHTML += mallForHTMLDansgrupp;
+        }
       });
-      });
-    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    });
+  }
 });
 

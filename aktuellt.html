@@ -18,7 +18,7 @@
 		
 		<!-- Egna script -->
 		<link href="css/layout.css" rel="stylesheet" type="text/css">
-		<script src="js/script.js" type="text/javascript" defer></script>
+
 		<link rel="icon" href="data:;base64,iVBORw0KGgo=">
 		
 		
@@ -41,20 +41,17 @@
 			<div class="parallaxMainPages slide2" id="parallaxDansgrupper">
 
 				<div class="row2">
-					<!-- Netlify CMS -->
-					<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.4.0/showdown.min.js"></script>
-					<script src="https://unpkg.com/js-yaml@3.10.0/dist/js-yaml.js"></script>
-					<script src="js/yamlFront.js"></script>
+					
                     <!-- Innehåll från CMS här-->
-					<div class="sidTitel" id="sidTitelAktuellt"></div>
+					<div class="sidTitel" id="sidTitel"></div>
 				</div>
 			
 			</div>
             <!-- Innehåll från CMS här-->
-			<div class="ingress" id="ingressAktuellt"></div> 
+			<div class="ingress" id="ingress"></div> 
 
             <!-- Nyheter loopas in här -->
-            <div id="newsFromCMS"></div>
+            <div id="fromCMS"></div>
 		</div>
  
 		<div class="footer">
@@ -68,6 +65,13 @@
                 <a href="http://www.instagram.com/dansasomfolk" class="insta topnav"><img src="images/instagramVit.png" id="instaLogo" alt="Instagram Logo"></a>
             </div>
 		</div>
+
+		<!-- Netlify CMS -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.4.0/showdown.min.js"></script>
+		<script src="https://unpkg.com/js-yaml@3.10.0/dist/js-yaml.js"></script>
+		<script src="js/yamlFront.js"></script>
+
+		<script src="js/script.js" type="text/javascript" defer></script>
 		
 		<!-- Google Analytics -->
 		<script rel="preconnect" async src="https://www.googletagmanager.com/gtag/js?id=UA-24754195-2"></script>
