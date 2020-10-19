@@ -36,7 +36,7 @@ intro:
         vår webbplats. Öva framför tv:n, eller var som helst.
 
 
-        [Klicka](http://dansasomfolk.s3-website-eu-west-1.amazonaws.com/ovasjalv.html) här och ta fram dansskorna.
+        Klicka på [länken till vår videosamling](ovasjalv.html) och ta fram dansskorna.
       image: /images/uploads/newspaper.jpg
     - date: 2020-04-11T18:09:42.262Z
       title: Kurs i menuett som dansas på de gamlas dag
