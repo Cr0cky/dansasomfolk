@@ -17,6 +17,16 @@ intro:
       plats: " Arbetets Vänner, Vasa "
       tid: Torsdag (2019) kl.18:00-19:00
       ledare: "Anna Sundback, Magnus Sundfors "
-      webb: http://dansasomfolk.s3-website-eu-west-1.amazonaws.com/www.facebook.com/groups/silverspannet
-      image: /images/uploads/oarlock.png
+      webb: http://www.facebook.com/groups/silverspannet
+      image: /images/uploads/arbetetsvannercompress.jpg
+    - date: 2020-10-19T11:44:53.441Z
+      title: Brage folkdanslag
+      body: Vill du göra mer än dansa med ett glatt gäng? Inom ramen för Brage i Vasa
+        dansar en glad grupp. Brage uppträder med jämna mellanrum på Bragegården
+        och hjälper även till som frivilliga.
+      plats: "Cantare, Vasa "
+      tid: "Onsdag kl. 19:00-20:30 "
+      ledare: " Britta Lund "
+      webb: https://www.vasabrage.fi/sv/kontakta/foreningen_brage_i_vasa/
+      image: /images/uploads/cantarecompress.jpg
 ---
