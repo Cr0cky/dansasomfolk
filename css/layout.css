@@ -350,7 +350,8 @@
   .footerEpost{
     font-size: 9px;
     margin-left: 15px;
-  
+    display: flex;
+    flex-wrap: wrap;
   }
   a.footerEpost:hover, a.footerEpost:active, a.footerEpost:visited, a.footerEpost:link{
     color: white;
@@ -367,7 +368,10 @@
   .rightInFooter a{
     padding: 14px 16px;
   }
-  
+  .rightInFooter{
+    display: flex;
+    flex-wrap: nowrap;
+  }
   
   
   

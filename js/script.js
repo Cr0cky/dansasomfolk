@@ -270,7 +270,7 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
               <div class="dansgruppWrapper">
                 <div class="left">	
                   <div class="bildWrapper">
-                    <img src="` + key.image +`" class="bildDansgrupp">
+                    <img src="` + key.image +`" class="bildDansgrupp" alt="Dansgruppens övningslokal.">
                   </div>
                 </div>
                 <div class="right">
