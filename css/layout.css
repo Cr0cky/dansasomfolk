@@ -1,36 +1,62 @@
 @font-face {
-    font-family: Morganite;
-    src: url('../fonts/Morganite-Medium.ttf') format("truetype");
-    font-display: swap;
-  }
+  font-family: Morganite;
+  src: url('../fonts/Morganite-Medium.ttf') format("truetype");
+  font-display: swap;
+}
   @font-face {
-    font-family: Morganite;
-      src: url('../fonts/Morganite-Bold.ttf') format("truetype");
-    font-weight: bold;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: Orkney;
-    src: url('../fonts/Orkney Regular.woff');
-    font-display: swap;
-  }
-  @font-face {
-    font-family: Orkney;
-      src: url('../fonts/Orkney Bold.woff');
-    font-weight: bold;
-    font-display: swap;
-  }
-   body {
-      margin: 0;
-      font-family: Orkney, sans-serif;
-      color: white;
-  }
-  /*
-  .body{
-    background-color: #eee
-  }*/
+  font-family: Morganite;
+  src: url('../fonts/Morganite-Bold.ttf') format("truetype");
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: Orkney;
+  src: url('../fonts/Orkney Regular.woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: Orkney;
+  src: url('../fonts/Orkney Bold.woff');
+  font-weight: bold;
+  font-display: swap;
+}
+body {
+  margin: 0;
+  font-family: Orkney, sans-serif;
+  color: white;
+}
+
+.fa {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; 
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../fonts/fa-solid-900.woff2") format("woff2");
+  font-display: swap;
+}
   
+.fa {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: white;
+}
+ 
+.fa-bars:before {
+  content: "\f0c9";
+}
   
+
+
   
   
   
@@ -127,6 +153,8 @@
   .topnav .icon {
     display: none;
   }
+
+
   /* When the screen is less than 600 pixels wide, hide all links, except for 
   the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
   @media screen and (max-width: 600px) {

@@ -305,7 +305,8 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
                         frameborder="0" 
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
                         allowfullscreen
-                        class="youtubeVideo">
+                        class="youtubeVideo"
+                        title="Dansvideo">
                     </iframe>
                   </div>
                 </div>
