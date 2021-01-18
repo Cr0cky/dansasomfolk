@@ -7,8 +7,8 @@ intro:
     - date: 2021-01-18T19:44:16.026Z
       title: Två grupper dansar med start i januari. Resten ännu frågetecken.
       body: >-
-        Som ni alla vet härjar Covid-19 ännu. Grupperna har därför valt olika
-        strategier.
+        Som ni alla vet härjar Covid-19 ännu. Dansgrupperna har därför valt
+        olika strategier.
 
 
         I **Vörå inleddes våren söndag 17.1.2021**. Ta kontakt med Vörå MI eller Gösta Småros om du vill vara med.
