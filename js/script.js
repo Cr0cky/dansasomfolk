@@ -190,7 +190,7 @@ let getPageName = () => {
 }
 console.log(getPageName());
 
-// Kollar om script som krävs för CMS:et finns med.
+// Kollar om script som krävs för CMS:et finns med..
 let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
 let mappedScripts = scriptsAsArray.map(function (value, index){
 
