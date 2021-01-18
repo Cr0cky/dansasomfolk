@@ -4,24 +4,6 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
-    - date: 2021-01-18T19:44:16.026Z
-      title: Två grupper dansar med start i januari. Resten ännu frågetecken.
-      body: >-
-        Som ni alla vet härjar Covid-19 ännu. Dansgrupperna har därför valt
-        olika strategier.
-
-
-        I **Vörå inleddes våren söndag 17.1.2021**. Ta kontakt med Vörå MI eller Gösta Småros om du vill vara med.
-
-
-        I Vasa inleder endast **AV sin danskurs torsdag 21.1.2021 kl.19** på Formansgatan 14. Gruppen dansar mest solo och dansar de med par så får endast par som delar hushåll dansa tillsammans, övriga dansar med Laban eller Labolina. Munskydd rekommenderas.
-
-
-        **Brage** väntar ännu med att inleda sitt dansade.
-
-
-        **Solf** har planerat att inleda sin verksamhet i mars om Covid-19-situationen är mer gynnsam. Anmälningar sker via Korsholms vuxeninstitut.
-      image: /images/uploads/newspaper.jpg
     - date: 2020-10-19T11:39:31.736Z
       title: Solf Folkdanslag håller paus under hösten
       body: Under hösten är tar Solf folkdanslag paus på grund av coronaepidemin.
