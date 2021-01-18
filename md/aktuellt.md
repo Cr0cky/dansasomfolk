@@ -21,7 +21,7 @@ intro:
 
 
         **Solf** har planerat att inleda sin verksamhet i mars om Covid-19-situationen är mer gynnsam. Anmälningar sker via Korsholms vuxeninstitut.
-      image: /images/uploads/folkdans-i-österbotten.jpg
+      image: /images/uploads/newspaper.jpg
     - date: 2020-10-19T11:39:31.736Z
       title: Solf Folkdanslag håller paus under hösten
       body: Under hösten är tar Solf folkdanslag paus på grund av coronaepidemin.
