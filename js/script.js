@@ -177,7 +177,7 @@ var silverspannetOverlay = document.getElementById("overlay");
 /*************************************************************************************************************/
 /*************************************************************************************************************/
 /*************************************************************************************************************/
-
+console.log('här börjar netlify');
 const sidTitel = document.getElementById('sidTitel');
 const ingress = document.getElementById('ingress');
 const fromCMS = document.getElementById('fromCMS');
@@ -190,17 +190,18 @@ let getPageName = () => {
 }
 console.log(getPageName());
 
-let data = fetch('../md' + getPageName().replace(".html", ".md"))
-  .then(response => response.text()).then(result => {
-    console.log(result);
-    // Konverterar YAML till objekt.
-    let yamlAsObject = yamlFront.loadFront(result);
-    console.log(yamlAsObject);
-  });
+// let data = fetch('../md' + getPageName().replace(".html", ".md"))
+//   .then(response => response.text()).then(result => {
+//     console.log(result);
+//     // Konverterar YAML till objekt.
+//     let yamlAsObject = yamlFront.loadFront(result);
+//     console.log(yamlAsObject);
+//   });
 
+console.log('nästa steg kollar');
 // Kollar om script som krävs för CMS:et finns med..
-let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
-let mappedScripts = scriptsAsArray.map(function (value, index){
+//let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
+//let mappedScripts = scriptsAsArray.map(function (value, index){
 
   //if(scriptsAsArray[index].src.includes("yamlFront.js")){
 
@@ -344,5 +345,5 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
 
     });
   //}
-});
+//});
 
