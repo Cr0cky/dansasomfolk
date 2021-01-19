@@ -190,13 +190,13 @@ let getPageName = () => {
 }
 console.log(getPageName());
 
-// let data = fetch('../md' + getPageName().replace(".html", ".md"))
-//   .then(response => response.text()).then(result => {
-//     console.log(result);
-//     // Konverterar YAML till objekt.
-//     let yamlAsObject = yamlFront.loadFront(result);
-//     console.log(yamlAsObject);
-//   });
+let data = fetch('../md' + getPageName().replace(".html", ".md"))
+  .then(response => response.text()).then(result => {
+    console.log(result);
+    // Konverterar YAML till objekt.
+    let yamlAsObject = yamlFront.loadFront(result);
+    console.log(yamlAsObject);
+  });
 
 // Kollar om script som krävs för CMS:et finns med..
 let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
