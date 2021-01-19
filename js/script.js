@@ -190,20 +190,28 @@ let getPageName = () => {
 }
 console.log(getPageName());
 
+// let data = fetch('../md' + getPageName().replace(".html", ".md"))
+//   .then(response => response.text()).then(result => {
+//     console.log(result);
+//     // Konverterar YAML till objekt.
+//     let yamlAsObject = yamlFront.loadFront(result);
+//     console.log(yamlAsObject);
+//   });
+
 // Kollar om script som krävs för CMS:et finns med..
 let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
 let mappedScripts = scriptsAsArray.map(function (value, index){
 
   if(scriptsAsArray[index].src.includes("yamlFront.js")){
-
+    
     // Hämtar data från aktuell HTML-sida   Tanken här är att alla HTML-sidor har samma namn som respektive MD-fil.
-    let data = fetch('../md/' + getPageName().replace(".html", ".md"))
-    .then(response => response.text())
-    .then(result => {
-      console.log(result);
+    let data = fetch('../md' + getPageName().replace(".html", ".md"))
+    .then(response => response.text()).then(result => {
+
+      //console.log(result);
       // Konverterar YAML till objekt.
       let yamlAsObject = yamlFront.loadFront(result);
-      console.log(yamlAsObject);
+      //console.log(yamlAsObject);
       // Konverterar markdown till HTML.
       converter = new showdown.Converter();
       let description = converter.makeHtml(yamlAsObject.description);
