@@ -202,7 +202,7 @@ let data = fetch('../md' + getPageName().replace(".html", ".md"))
 let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
 let mappedScripts = scriptsAsArray.map(function (value, index){
 
-  if(scriptsAsArray[index].src.includes("yamlFront.js")){
+  //if(scriptsAsArray[index].src.includes("yamlFront.js")){
 
     // Hämtar data från aktuell HTML-sida   Tanken här är att alla HTML-sidor har samma namn som respektive MD-fil.
     let data = fetch('../md' + getPageName().replace(".html", ".md"))
@@ -343,6 +343,6 @@ let mappedScripts = scriptsAsArray.map(function (value, index){
 
 
     });
-  }
+  //}
 });
 
