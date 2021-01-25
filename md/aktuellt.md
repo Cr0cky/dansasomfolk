@@ -4,10 +4,6 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
-    - date: 2021-01-25T21:00:29.177Z
-      title: Test
-      body: Testar
-      image: /images/uploads/newspaper.jpg
     - date: 2020-10-19T11:39:31.736Z
       title: Solf Folkdanslag håller paus under hösten
       body: Under hösten är tar Solf folkdanslag paus på grund av coronaepidemin.
