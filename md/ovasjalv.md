@@ -51,7 +51,7 @@ intro:
       http: https://youtu.be/xpZC00tI0KA
     - date: 2021-01-26T09:22:38.179Z
       title: Hoppschottis del 2
-      http: https://youtu.be/rwNL2W8orvA
+      http: https://www.youtube.com/embed/rwNL2W8orvA
       body: >+
         När du lärt dig grundsteget i del 1 är det dags att börja dansa runt med
         en kompis.
