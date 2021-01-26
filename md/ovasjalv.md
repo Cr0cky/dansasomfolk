@@ -48,6 +48,9 @@ intro:
 
 
         Vi har samlat några låtar som du kan använda när du övar i denna spellista:[](https://bit.ly/litenoverraskning) [bit.ly/litenoverraskning](bit.ly/litenoverraskning)
+
+
+        ![](https://youtu.be/xpZC00tI0KA "Hoppaschottis del 1")
       http: https://youtu.be/xpZC00tI0KA
     - date: 2021-01-26T09:22:38.179Z
       title: Hoppschottis del 2
@@ -60,8 +63,6 @@ intro:
       title: Menuett från Lappfjärd
       body: |-
         Virriga instruktören lär dig grunderna till Menuett från Lappfjärd.
-
-        ![]()
 
          Dela gärna upp övningen i flera omgångar. 
 
