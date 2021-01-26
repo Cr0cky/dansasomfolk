@@ -47,8 +47,9 @@ intro:
     - date: 2021-01-26T09:22:38.179Z
       title: Hoppschottis del 2
       http: https://youtu.be/rwNL2W8orvA
-      body: "När du lärt dig grundsteget i del 1 är det dags att börja dansa runt med
-        en kompis. "
+      body: "[](https://youtu.be/rwNL2W8orvA)När du lärt dig grundsteget i del 1 är
+        det dags att börja dansa runt med en kompis.
+        <https://youtu.be/rwNL2W8orvA>"
     - date: 2020-06-07T12:04:33.172Z
       title: Menuett från Lappfjärd
       body: Virriga instruktören lär dig grunderna till Menuett från Lappfjärd.
