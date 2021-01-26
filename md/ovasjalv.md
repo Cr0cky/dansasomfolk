@@ -39,6 +39,11 @@ intro:
         Magnus och Anna bryter ner schottis.\
 
         Här finns alla steg men Anna och Magnus demonstrerar inte schottis till musik på slutet.
+    - date: 2021-01-26T09:19:14.849Z
+      title: Hoppschottis del 1
+      body: Cathrine och Magnus lära i två delar ut hur du dansar en variant på
+        schottis. En favoritversion som ibland är lättare att lära sig dansa.
+      http: https://youtu.be/xpZC00tI0KA
     - date: 2020-06-07T12:04:33.172Z
       title: Menuett från Lappfjärd
       body: Virriga instruktören lär dig grunderna till Menuett från Lappfjärd.
