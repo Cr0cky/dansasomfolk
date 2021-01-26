@@ -4,6 +4,22 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-02-01T10:21:21.794Z
+      title: Dansläger för juniorer på Norrvalla i sommar.
+      image: /images/uploads/dansläger2.gif
+      body: >-
+        I sommar ordnas det både spelmansstämma och ett dansläger för juniorer
+        på Norvalla.  Vi kommer att återkomma senare i vår med
+        anmälningsuppgifter och annat som kan vara intressant att veta innan
+        lägret. 
+
+
+
+
+        I mars beslutar Finlandssvensk spelmanförbunddet om det blir en spelmansstämma. Eftersom lägret är kopplat till spelmansstämman påverkar det även om danslägret arrangeras. 
+
+
+        Följ med här eller i vår sociala media för aktuellt.
     - date: 2021-01-26T09:10:11.023Z
       title: Årsmöte för Mellersta Österbottens folkdansdistrikt hålls 10.3.2021.
       body: >-
