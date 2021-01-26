@@ -8,10 +8,9 @@ intro:
       title: Dansläger för juniorer på Norrvalla i sommar.
       image: /images/uploads/dansläger2.gif
       body: >-
-        I sommar ordnas det både spelmansstämma och ett dansläger för juniorer
-        på Norvalla.  Vi kommer att återkomma senare i vår med
-        anmälningsuppgifter och annat som kan vara intressant att veta innan
-        lägret. 
+        
+
+        I sommar ordnas det både spelmansstämma och ett dansläger för juniorer på Norvalla.  Vi kommer att återkomma senare i vår med anmälningsuppgifter och annat som kan vara intressant att veta innan lägret. 
 
 
 
