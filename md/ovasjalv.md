@@ -42,15 +42,12 @@ intro:
         Här finns alla steg men Anna och Magnus demonstrerar inte schottis till musik på slutet.
     - date: 2021-01-26T09:19:14.849Z
       title: Hoppschottis del 1
-      body: >-
+      body: >
         Cathrine och Magnus lära i två delar ut hur du dansar en variant på
         schottis. En favoritversion som ibland är lättare att lära sig dansa.
 
 
         Vi har samlat några låtar som du kan använda när du övar i denna spellista:[](https://bit.ly/litenoverraskning) [bit.ly/litenoverraskning](bit.ly/litenoverraskning)
-
-
-        ![](https://youtu.be/xpZC00tI0KA "Hoppaschottis del 1")
       http: https://youtu.be/xpZC00tI0KA
     - date: 2021-01-26T09:22:38.179Z
       title: Hoppschottis del 2
