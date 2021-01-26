@@ -47,7 +47,7 @@ intro:
 
 
         Vi har samlat några låtar som du kan använda när du övar i denna spellista: <https://open.spotify.com/playlist/7jL66az8c2L4f1LnlnSduc?si=erC5qwfRTCSwwDnt7CXXWA>
-      http: https://youtu.be/xpZC00tI0KA
+      http: https://youtu.be//embed/xpZC00tI0KA
     - date: 2021-01-26T09:22:38.179Z
       title: Hoppschottis del 2
       http: https://youtu.be/rwNL2W8orvA
