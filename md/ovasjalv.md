@@ -57,6 +57,8 @@ intro:
 
     - date: 2020-06-07T12:04:33.172Z
       title: Menuett från Lappfjärd
-      body: Virriga instruktören lär dig grunderna till Menuett från Lappfjärd.
+      body: Virriga instruktören lär dig grunderna till Menuett från Lappfjärd. Dela
+        gärna upp övningen i flera omgångar. Det brukar ta tid att lära sig alla
+        delar i en menuett.
       http: https://www.youtube.com/embed/f23DKQwQirg
 ---
