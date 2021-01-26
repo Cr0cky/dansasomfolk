@@ -43,10 +43,9 @@ intro:
     - date: 2021-01-26T18:51:37.011Z
       title: Hoppschottis del 1
       body: >-
-        Cathrine och Magnus lära i två delar ut hur du dansar en variant på
-        schottis. En \
+        Cathrine och Magnus lära i två delar ut hur du dansar en variant \
 
-        favoritversion som ibland är lättare att lära sig dansa.\
+        på schottis. En favoritversion som ibland är lättare att lära sig dansa.\
 
         Vi har samlat några låtar som du kan använda när du övar i denna \
 
