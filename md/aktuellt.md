@@ -7,19 +7,24 @@ intro:
     - date: 2021-01-26T09:10:11.023Z
       title: Årsmöte för Mellersta Österbottens folkdansdistrikt hålls 10.3.2021.
       body: >-
-        Föreningarna i MÖFD bör vara beredda på att möte hålls på distans detta
-        år. Vi följer myndigheternas rekommendationer, därför har styrelsen inte
-        bestämt plats för mötet. 
+        Årsmötet hålls på att möte hålls på distans detta år. Vi följer
+        myndigheternas rekommendationer och har därmed valt att hålla mötet på
+        distans. Eftersom deltagarna behöver en länk är det viktigt att ni
+        anmäler er **senast** 3.3.2021 till ***mo.folkdans@gmail.com.***
 
 
-        Medlemmar får gärna delta i mötet och är man intresserad av att delta i styrelsen kan du anmäla det till mofd@gmail.com.
+        Medlemmar får gärna delta i mötet och är man intresserad av att delta i styrelsen kan du anmäla det till *mo.folkdans@gmail.com*.
 
 
-        ## **Datum:** 10.3.2021
 
-        **Tid:** 18.00
 
-        **Plats:** meddelas senare.
+        #### **Datum:** 10.3.2021
+
+
+        #### **Tid:** 18.00
+
+
+        #### **Plats:** hålls digitalt.
       image: /images/uploads/fsfmöte2020.jpg
     - date: 2021-01-26T09:06:32.268Z
       title: Vårens verksamhet är igång men Covid-19 påverkar.
