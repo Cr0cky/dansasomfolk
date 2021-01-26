@@ -19,7 +19,7 @@ intro:
         I mars beslutar Finlandssvensk spelmanförbunddet om det blir en spelmansstämma. Eftersom lägret är kopplat till spelmansstämman påverkar det även om danslägret arrangeras. 
 
 
-        Följ med här eller i vår sociala media för aktuellt.
+        Följ med här eller i våra sociala media för aktuellt.
     - date: 2021-01-26T09:10:11.023Z
       title: Årsmöte för Mellersta Österbottens folkdansdistrikt hålls 10.3.2021.
       body: >-
