@@ -36,7 +36,8 @@ intro:
       title: Lär dig dansa schottis
       http: https://www.youtube.com/embed/6_6niC0b3wo
       body: >-
-        Magnus och Anna bryter ner schottis.\
+        Magnus och Anna bryter ner schottis.
+
 
         Här finns alla steg men Anna och Magnus demonstrerar inte schottis till musik på slutet.
     - date: 2021-01-26T09:19:14.849Z
@@ -46,7 +47,7 @@ intro:
         schottis. En favoritversion som ibland är lättare att lära sig dansa.
 
 
-        Vi har samlat några låtar som du kan använda när du övar i denna spellista: <https://open.spotify.com/playlist/7jL66az8c2L4f1LnlnSduc?si=erC5qwfRTCSwwDnt7CXXWA>
+        Vi har samlat några låtar som du kan använda när du övar i denna spellista:[](https://bit.ly/litenoverraskning) [bit.ly/litenoverraskning](bit.ly/litenoverraskning)
       http: https://youtu.be/xpZC00tI0KA
     - date: 2021-01-26T09:22:38.179Z
       title: Hoppschottis del 2
@@ -57,8 +58,13 @@ intro:
 
     - date: 2020-06-07T12:04:33.172Z
       title: Menuett från Lappfjärd
-      body: Virriga instruktören lär dig grunderna till Menuett från Lappfjärd. Dela
-        gärna upp övningen i flera omgångar. Det brukar ta tid att lära sig alla
-        delar i en menuett.
+      body: |-
+        Virriga instruktören lär dig grunderna till Menuett från Lappfjärd.
+
+        ![]()
+
+         Dela gärna upp övningen i flera omgångar. 
+
+        Det brukar ta tid att lära sig alla delar i en menuett.
       http: https://www.youtube.com/embed/f23DKQwQirg
 ---
