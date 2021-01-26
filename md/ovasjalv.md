@@ -40,7 +40,7 @@ intro:
 
 
         Här finns alla steg men Anna och Magnus demonstrerar inte schottis till musik på slutet.
-    - date: 2021-01-26T09:19:14.849Z
+    - date: 2021-01-26T18:51:37.011Z
       title: Hoppschottis del 1
       body: >
         Cathrine och Magnus lära i två delar ut hur du dansar en variant på
@@ -48,8 +48,8 @@ intro:
 
 
         Vi har samlat några låtar som du kan använda när du övar i denna spellista:[](https://bit.ly/litenoverraskning) [bit.ly/litenoverraskning](bit.ly/litenoverraskning)
-      http: https://youtu.be/xpZC00tI0KA
-    - date: 2021-01-26T09:22:38.179Z
+      http: https://www.youtube.com/embed/xpZC00tI0KA
+    - date: 2021-01-26T18:51:40.875Z
       title: Hoppschottis del 2
       http: https://www.youtube.com/embed/rwNL2W8orvA
       body: >+
