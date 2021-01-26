@@ -47,7 +47,8 @@ intro:
         schottis.
 
 
-        En favoritversion som ibland är lättare att lära sig dansa.\
+        En favoritversion som ibland är lättare att lära sig dansa.
+
 
         Vi har samlat några låtar som du kan använda när du övar i denna 
 
