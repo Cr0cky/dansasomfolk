@@ -4,6 +4,24 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-02-01T11:45:51.307Z
+      title: Inga dansövningar under februari.
+      body: "I fredags kom beskedet vi väntat på. På torsdagen hade AVs grupp övning
+        och Vörå dansade igår söndag sin övning.\ 
+
+
+        Vi är noggranna med att följa Sjukhusdistriktets
+        rekommendationer. Vörå följer dessutom Vörå MIs beslut om att ställa in
+        under februari. Därmed är det paus i dansandet fram till mars.
+
+
+        Men sörj inte, vi har flera dansvideor, dels teknik och timmar
+        som ni kan göra hemma. Röj undan soffbordet eller dansa i hallen och
+        sätt på en video.\ 
+
+
+        \ "
+      image: /images/uploads/dansav2017.jpg
     - date: 2021-02-01T10:21:21.794Z
       title: Dansläger för juniorer på Norrvalla i sommar.
       image: /images/uploads/dansläger2.gif
