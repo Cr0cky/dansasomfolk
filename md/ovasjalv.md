@@ -69,7 +69,10 @@ intro:
         Denna film baserar sig på en spontan inspelning under vintern 2021. 
 
 
-        Magnuns lär ut en tango som dansas inom line dance. Denna tango kan dansas till vilken tango som helst. Vi har sammanställt en spellista[ bit.ly/enkeltango](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0FQbjItNXM5WHd4bzJRNC1rRm5BM0tnUTJvUXxBQ3Jtc0tsM2NudFNiOEsxQ2FNYi1XaWVzTUZ0RzhnWE1aWFM0c2ZOWENHUGZXd1RuYXlZRHpUcDhmd2xIRzVqUHRQNG1YbFNGOTNCbjQ0bW5lX1F0cUk2dHJWcU9kTjFVSWxJR2EtMlBBaGdtOF9EQk9RLTFkOA&q=http%3A%2F%2Fbit.ly%2Fenkeltango) med några tangon från både här och där i världen. ​ Vi har även på övningen dansat till KAJs Tango taas.
+        Magnuns lär ut en tango som dansas inom line dance. Denna tango kan dansas till vilken tango som helst. 
+
+
+        Vi har sammanställt en spellista[ bit.ly/enkeltango](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0FQbjItNXM5WHd4bzJRNC1rRm5BM0tnUTJvUXxBQ3Jtc0tsM2NudFNiOEsxQ2FNYi1XaWVzTUZ0RzhnWE1aWFM0c2ZOWENHUGZXd1RuYXlZRHpUcDhmd2xIRzVqUHRQNG1YbFNGOTNCbjQ0bW5lX1F0cUk2dHJWcU9kTjFVSWxJR2EtMlBBaGdtOF9EQk9RLTFkOA&q=http%3A%2F%2Fbit.ly%2Fenkeltango) med några tangon från både här och där i världen. ​ Vi har på övningen även dansat till KAJs *Tango taas*.
     - date: 2020-06-07T12:04:33.172Z
       title: Menuett från Lappfjärd
       body: |-
