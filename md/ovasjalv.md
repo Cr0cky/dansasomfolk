@@ -37,7 +37,7 @@ intro:
         **Glöm inte att spänn magen för att få en rak rygg. Det göra att när ni dansar som par kan ni styra dansen själva. Öva hela tiden med rak rygg.**
 
 
-        Vi har problem med att visa länken till dansvideon men vi arbetar på det. 
+        ###### Vi har problem med att visa länken till dansvideon men vi arbetar på det. 
 
 
         Länkt till videon: <https://youtu.be/NJ_upP_axT0>
