@@ -6,13 +6,15 @@ intro:
   blurbs:
     - date: 2021-02-01T11:45:51.307Z
       title: Inga dansövningar under februari.
-      body: "I fredags kom beskedet vi väntat på. På torsdagen hade AVs grupp övning
-        och Vörå dansade igår söndag sin övning.\ 
+      body: "I fredags (29.1) kom beskedet vi väntat på. På torsdagen hade AVs grupp
+        övning och Vörå dansade igår söndag sin övning dör sista gången innan
+        pausen.\ 
 
 
         Vi är noggranna med att följa Sjukhusdistriktets
         rekommendationer. Vörå följer dessutom Vörå MIs beslut om att ställa in
-        under februari. Därmed är det paus i dansandet fram till mars.
+        under februari. Därmed är det paus i dansandet fram till efter
+        sportlovet (Sportlov första veckan i mars).
 
 
         Men sörj inte, vi har flera dansvideor, dels teknik och timmar
