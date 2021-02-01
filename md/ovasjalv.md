@@ -43,7 +43,7 @@ intro:
         Vi har problem med att visa länken till dansvideon men vi arbetar på det. 
 
 
-        Länkt till videon: youtu.be/NJ_upP_axT0
+        Länkt till videon: https://youtu.be/NJ_upP_axT0
       http: https://www.youtube.com/embed/NJ_upP_axT0?
     - date: 2020-06-07T12:03:37.250Z
       title: Lär dig dansa schottis
