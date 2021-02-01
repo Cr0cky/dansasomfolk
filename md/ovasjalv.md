@@ -37,7 +37,7 @@ intro:
         Glöm inte att spänn magen för att få en rak rygg. Det göra att när ni dansar som par kan styra er dans själva.
 
          Öva hela tiden med rak rygg.
-      http: https://www.youtube.com/embed/NJ_upP_axT0
+      http: https://www.youtube.com/embed/NJ_upP_axT0?
     - date: 2020-06-07T12:03:37.250Z
       title: Lär dig dansa schottis
       http: https://www.youtube.com/embed/6_6niC0b3wo
