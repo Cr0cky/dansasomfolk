@@ -34,9 +34,7 @@ intro:
         Snoa är en bra basdans som lär dansaren fotteknik och kropsskontroll.
 
 
-        **Glöm inte att spänn magen för att få en rak rygg. Det göra att när ni dansar som par kan styra er dans själva. Öva hela tiden med rak rygg.**
-
-
+        **Glöm inte att spänn magen för att få en rak rygg. Det göra att när ni dansar som par kan ni styra dansen själva. Öva hela tiden med rak rygg.**
 
 
         Vi har problem med att visa länken till dansvideon men vi arbetar på det. 
