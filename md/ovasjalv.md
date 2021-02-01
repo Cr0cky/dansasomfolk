@@ -27,10 +27,16 @@ intro:
       http: https://www.youtube.com/embed/LG2n003UpKY
     - date: 2020-06-07T12:02:04.374Z
       title: Lär dig dansa snoa
-      body: |-
+      body: >-
         Anna och Magnus ger tips om hur du dansar snoa.
 
+
         Snoa är en bra basdans som lär dansaren fotteknik och kropsskontroll.
+
+
+        Glöm inte att spänn magen för att få en rak rygg. Det göra att när ni dansar som par kan styra er dans själva.
+
+         Öva hela tiden med rak rygg.
       http: https://www.youtube.com/embed/NJ_upP_axT0
     - date: 2020-06-07T12:03:37.250Z
       title: Lär dig dansa schottis
