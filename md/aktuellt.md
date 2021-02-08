@@ -7,8 +7,8 @@ intro:
     - date: 2021-02-08T15:56:22.610Z
       title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
       body: >-
-        Här kommer en hälsning från Finlandssvenska Folkdansringen och hälsning
-        från distriktets styrelse som höll möte 8.2.2021: 
+        Här kommer en hälsning från Finlandssvenska Folkdansringen och från
+        distriktets styrelse som höll möte 8.2.2021: 
 
 
         **Var står Folkdansringen idag? Vart vill Folkdansringen komma? Hur kommer vi dit?**
