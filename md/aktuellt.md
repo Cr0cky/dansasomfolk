@@ -47,13 +47,11 @@ intro:
         Grupperna ska diskutera utgående från de tre riktgivande frågorna:
 
 
-                              **Var står vi idag?**
+        * **Var står vi idag?** 
 
+        * **Vart vill vi komma?** 
 
-           **                   Vart vill vi komma?**
-
-
-           **                   Hur kommer vi dit?**
+        * **Hur kommer vi dit?**
 
 
         Strategin läggs upp för fem år åt gången, den första perioden är åren 2022 – 2027. En ny strategi formuleras innan den föregående löpt ut.
