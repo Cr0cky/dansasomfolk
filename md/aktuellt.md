@@ -47,11 +47,10 @@ intro:
         Strategin läggs upp för fem år åt gången, den första perioden är åren 2022 – 2027. En ny strategi formuleras innan den föregående löpt ut.
 
 
-        **Grupperna samlas virtuellt**  och avlägger sina mellanrapporter på Folkdansringens årsmöte våren 2021.\
+        **Grupperna samlas virtuellt**  och avlägger sina mellanrapporter på Folkdansringens årsmöte våren 2021.
 
-        Ett strategiseminarium ordnas i Tammerfors 30–31.10.2021, där grupperna presenterar sina tankar och seminariedeltagarna\
 
-        får aktivt komma med synpunkter och förslag.
+        Ett strategiseminarium ordnas i Tammerfors 30–31.10.2021, där grupperna presenterar sina tankar och seminariedeltagarna får aktivt komma med synpunkter och förslag.
 
 
         **Tycker du detta låter intressant? Anmäl dig till Folkdansringens kansli senast 28.2.2021.**
