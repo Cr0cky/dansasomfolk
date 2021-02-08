@@ -21,27 +21,21 @@ intro:
 
         Styrelsen för Folkdansringen har som uppgift att bilda fem olika strategigrupper bestående av 4 – 5 personer / grupp.\
 
-        Gruppernas uppdrag är att arbeta fram strategiförslag för olika delområden. Verkställande utskottet är den koordinerande\
-
-        instansen som sammanställer strategihelheten utgående från gruppernas förslag.
+        Gruppernas uppdrag är att arbeta fram strategiförslag för olika delområden. Verkställande utskottet är den koordinerandeinstansen som sammanställer strategihelheten utgående från gruppernas förslag.
 
 
         Grupperna är som följer:
 
 
-        **1.** Media/marknadsföringsgruppen
+        1.  **Media/marknadsföringsgruppen.** 
 
+        2. **Verksamhetsgruppen; på vilket sätt skall Folkdansringen stödja sina medlemmars (distriktens) verksamhet?**
 
-        **2.** Verksamhetsgruppen; på vilket sätt skall Folkdansringen stödja sina medlemmars (distriktens) verksamhet?
+        3. **Nätverk-gruppen som diskuterar strategier för nationellt och internationellt samarbete och nätverkande.** 
 
+        4. **Ekonomigruppen; hur få inkomster/finansiering för att arrangera verksamheten?**
 
-        **3.** Nätverk-gruppen som diskuterar strategier för nationellt och internationellt samarbete och nätverkande.
-
-
-        **4.** Ekonomigruppen; hur få inkomster/finansiering för att arrangera verksamheten?
-
-
-        **5.** Gruppen för barns och ungdomars verksamhet.
+        5.  **Gruppen för barns och ungdomars verksamhet.**
 
 
         Grupperna ska diskutera utgående från de tre riktgivande frågorna:
