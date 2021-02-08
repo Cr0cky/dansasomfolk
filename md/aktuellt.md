@@ -14,14 +14,10 @@ intro:
         **Var står Folkdansringen idag? Vart vill Folkdansringen komma? Hur kommer vi dit?**
 
 
-        Årsmötet 11.10.2020 beslöt att man skall komma igång med strategiarbetet trots att det inplanerade seminariet inhiberades\
-
-        p.g.a. coronasituationen.
+        Årsmötet 11.10.2020 beslöt att man skall komma igång med strategiarbetet trots att det inplanerade seminariet inhiberades p.g.a. coronasituationen.
 
 
-        Styrelsen för Folkdansringen har som uppgift att bilda fem olika strategigrupper bestående av 4 – 5 personer / grupp.\
-
-        Gruppernas uppdrag är att arbeta fram strategiförslag för olika delområden. Verkställande utskottet är den koordinerandeinstansen som sammanställer strategihelheten utgående från gruppernas förslag.
+        Styrelsen för Folkdansringen har som uppgift att bilda fem olika strategigrupper bestående av 4 – 5 personer / grupp. Gruppernas uppdrag är att arbeta fram strategiförslag för olika delområden. Verkställande utskottet är den koordinerandeinstansen som sammanställer strategihelheten utgående från gruppernas förslag.
 
 
         Grupperna är som följer:
