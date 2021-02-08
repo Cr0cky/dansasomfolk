@@ -122,4 +122,69 @@ intro:
 
         Anmälan: senast 18.9. Tel. 040-3523688, eller e-post: folkdansringen@folkdans.fi. eller [](https://folkdans.fi/kurser/)[Folkdansringen](https://folkdans.fi/kurser/).
       image: /images/uploads/newspaper.jpg
+    - date: 2021-02-08T15:48:21.450Z
+      title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
+      body: >-
+        Här kommer en hälsning från Finlandssvenska Folkdansringen och hälsning
+        från distriktets styrelse som höll möte 8.2.2021: 
+
+
+        **Var står Folkdansringen idag? Vart vill Folkdansringen komma? Hur kommer vi dit?**Årsmötet 11.10.2020 beslöt att man skall komma igång med strategiarbetet trots att det inplanerade seminariet inhiberades\
+
+        pga coronasituationen.
+
+
+        Styrelsen för Folkdansringen har som uppgift att bilda fem olika strategigrupper bestående av 4 – 5 personer / grupp.\
+
+        Gruppernas uppdrag är att arbeta fram strategiförslag för olika delområden. Verkställande utskottet är den koordinerande\
+
+        instansen som sammanställer strategihelheten utgående från gruppernas förslag.
+
+
+        Grupperna är som följer:
+
+
+        **1.** Media/marknadsföringsgruppen
+
+
+        **2.** Verksamhetsgruppen; på vilket sätt skall Folkdansringen stödja sina medlemmars     (distriktens) verksamhet?
+
+
+        **3.** Nätverk-gruppen som diskuterar strategier för nationellt och internationellt samarbete/nätverkande
+
+
+        **4.** Ekonomigruppen; hur få inkomster/finansiering för att arrangera verksamheten?
+
+
+        **5.** Gruppen för barns och ungdomars verksamhet
+
+
+        Grupperna ska diskutera utgående från de tre riktgivande frågorna:
+
+
+                              **Var står vi idag?**
+
+
+         **                     Vart vill vi komma?**
+
+
+         **                     Hur kommer vi dit?**
+
+
+        Strategin läggs upp för fem år åt gången, således skulle den första perioden gälla för åren 2022 – 2027. En ny strategi\
+
+        formuleras innan den föregående löpt ut.
+
+
+        Grupperna samlas virtuellt på nätet och avlägger sina mellanrapporter på Folkdansringens årsmöte våren 2021.\
+
+        Ett strategiseminarium ordnas i Tammerfors 30–31.10.2021, där grupperna presenterar sina tankar och seminariedeltagarna\
+
+        får aktivt komma med synpunkter och förslag.
+
+
+        **Tycker du detta låter intressant så anmäl dig till Folkdansringens kansli senast 28.2.2021, så får du delta i planeringen\
+
+        av Folkdansringens framtida verksamhet.**
+      image: /images/uploads/mellerasta-österbottens-folkdansditrikts-styrelsemöte.jpg
 ---
