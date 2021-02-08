@@ -11,7 +11,10 @@ intro:
         från distriktets styrelse som höll möte 8.2.2021: 
 
 
-        **Var står Folkdansringen idag? Vart vill Folkdansringen komma? Hur kommer vi dit?**Årsmötet 11.10.2020 beslöt att man skall komma igång med strategiarbetet trots att det inplanerade seminariet inhiberades\
+        **Var står Folkdansringen idag? Vart vill Folkdansringen komma? Hur kommer vi dit?**
+
+
+        Årsmötet 11.10.2020 beslöt att man skall komma igång med strategiarbetet trots att det inplanerade seminariet inhiberades\
 
         pga coronasituationen.
 
@@ -47,10 +50,10 @@ intro:
                               **Var står vi idag?**
 
 
-         **                     Vart vill vi komma?**
+          **                    Vart vill vi komma?**
 
 
-         **                     Hur kommer vi dit?**
+          **                    Hur kommer vi dit?**
 
 
         Strategin läggs upp för fem år åt gången, således skulle den första perioden gälla för åren 2022 – 2027. En ny strategi\
