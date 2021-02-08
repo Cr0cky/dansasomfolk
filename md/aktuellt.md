@@ -23,7 +23,7 @@ intro:
         Grupperna är som följer:
 
 
-        1.  **Media- och marknadsföringsgruppen.** 
+        1. **Media- och marknadsföringsgruppen.** 
 
         2. **Verksamhetsgruppen; på vilket sätt skall Folkdansringen stödja sina medlemmars (distriktens) verksamhet?**
 
@@ -31,7 +31,7 @@ intro:
 
         4. **Ekonomigruppen; hur få inkomster och finansiering för att arrangera verksamheten?**
 
-        5.  **Gruppen för barns och ungdomars verksamhet.**
+        5. **Gruppen för barns och ungdomars verksamhet.**
 
 
         Grupperna ska diskutera utgående från de tre riktgivande frågorna:
