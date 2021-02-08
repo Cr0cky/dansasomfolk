@@ -16,7 +16,7 @@ intro:
 
         Årsmötet 11.10.2020 beslöt att man skall komma igång med strategiarbetet trots att det inplanerade seminariet inhiberades\
 
-        pga coronasituationen.
+        p.g.a. coronasituationen.
 
 
         Styrelsen för Folkdansringen har som uppgift att bilda fem olika strategigrupper bestående av 4 – 5 personer / grupp.\
@@ -32,7 +32,7 @@ intro:
         **1.** Media/marknadsföringsgruppen
 
 
-        **2.** Verksamhetsgruppen; på vilket sätt skall Folkdansringen stödja sina medlemmars     (distriktens) verksamhet?
+        **2.** Verksamhetsgruppen; på vilket sätt skall Folkdansringen stödja sina medlemmars (distriktens) verksamhet?
 
 
         **3.** Nätverk-gruppen som diskuterar strategier för nationellt och internationellt samarbete/nätverkande
@@ -50,27 +50,23 @@ intro:
                               **Var står vi idag?**
 
 
-          **                    Vart vill vi komma?**
+           **                   Vart vill vi komma?**
 
 
-          **                    Hur kommer vi dit?**
+           **                   Hur kommer vi dit?**
 
 
-        Strategin läggs upp för fem år åt gången, således skulle den första perioden gälla för åren 2022 – 2027. En ny strategi\
-
-        formuleras innan den föregående löpt ut.
+        Strategin läggs upp för fem år åt gången, den första perioden är åren 2022 – 2027. En ny strategi formuleras innan den föregående löpt ut.
 
 
-        Grupperna samlas virtuellt på nätet och avlägger sina mellanrapporter på Folkdansringens årsmöte våren 2021.\
+        **Grupperna samlas virtuellt**  och avlägger sina mellanrapporter på Folkdansringens årsmöte våren 2021.\
 
         Ett strategiseminarium ordnas i Tammerfors 30–31.10.2021, där grupperna presenterar sina tankar och seminariedeltagarna\
 
         får aktivt komma med synpunkter och förslag.
 
 
-        **Tycker du detta låter intressant så anmäl dig till Folkdansringens kansli senast 28.2.2021, så får du delta i planeringen\
-
-        av Folkdansringens framtida verksamhet.**
+        **Tycker du detta låter intressant? Anmäl dig till Folkdansringens kansli senast 28.2.2021.**
       image: /images/uploads/mellerasta-österbottens-folkdansditrikts-styrelsemöte.jpg
     - date: 2021-02-01T11:45:51.307Z
       title: Inga dansövningar under februari.
