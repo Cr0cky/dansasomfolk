@@ -53,7 +53,7 @@ intro:
         Ett strategiseminarium ordnas i Tammerfors 30–31.10.2021, där grupperna presenterar sina tankar och seminariedeltagarna får aktivt komma med synpunkter och förslag.
 
 
-        **Tycker du detta låter intressant? Anmäl dig till Folkdansringens kansli senast 28.2.2021.**
+        **Tycker du detta låter intressant? Anmäl dig till Folkdansringens kansli senast 28.2.2021 (folkdansringen@folkdans.fi).**
       image: /images/uploads/mellerasta-österbottens-folkdansditrikts-styrelsemöte.jpg
     - date: 2021-02-01T11:45:51.307Z
       title: Inga dansövningar under februari.
