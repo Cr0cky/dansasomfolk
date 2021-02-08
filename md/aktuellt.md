@@ -4,7 +4,7 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
-    - date: 2021-02-08T15:48:21.450Z
+    - date: 2021-02-08T15:56:22.610Z
       title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
       body: >-
         Här kommer en hälsning från Finlandssvenska Folkdansringen och hälsning
