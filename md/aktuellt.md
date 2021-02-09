@@ -143,7 +143,7 @@ intro:
         (familjer) och 15-15.45 (vuxna). Priset: 15e. Mer information om kursen
         finns på våra sidor i facebook och instagram. Anmälan via [Vörå
         medborgarinstitut](https://www.vora.fi/kultur-och-fritid/vomi)."
-      image: /images/uploads/newspaper.jpg
+      image: /images/uploads/arbetetsvannercompress.jpg
     - date: 2020-06-11T11:30:21.183Z
       title: dansa som Folk! instruerar i ditt vardagsrum
       body: >-
