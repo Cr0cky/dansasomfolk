@@ -125,7 +125,7 @@ intro:
       body: Under hösten är tar Solf folkdanslag paus på grund av coronaepidemin.
         Instruktör Annina Ylikoski kommer att i våra sociala medier förklara mer
         om orsakerna. Efter julen förväntas verksamheten vara igång igen.
-      image: /images/uploads/newspaper.jpg
+      image: /images/uploads/tolbyhf.jpg
     - date: 2020-09-01T11:38:21.313Z
       title: Flera danskurser ordnas av Vörå MI i folkiga danstraditioner
       body: "Under hösten ordans en längre kurs i allmogedans och två kortkurser i
