@@ -59,7 +59,7 @@ intro:
       title: Inga dansövningar under februari.
       body: >-
         I fredags (29.1) kom beskedet vi väntat på. På torsdagen hade AVs grupp
-        övning och Vörå dansade igår söndag sin övning dör sista gången innan
+        övning och Vörå dansade igår söndag sin övning för sista gången innan
         pausen. 
 
 
