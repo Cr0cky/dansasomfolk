@@ -311,8 +311,8 @@ let getPageName = () => {
           let mallForHTMLOvasjalv = `
             <div class="dansgrupp">
               <div class="dansgruppRubrik">
-                <h1 class="aktuelltRubrik">` + paragraphToDiv(converter.makeHtml(key.title)) + `</h1>
-                7 Juni 2020
+                <h1 class="aktuelltRubrik">` + paragraphToDiv(converter.makeHtml(key.title)) + `</h1>`
+                + stripHtml(converter.makeHtml((new Date(key.date)).toLocaleDateString("se-FI", dateOptions))) + `
               </div>
               <div class="dansgruppWrapper">
                 <div class="left">	
