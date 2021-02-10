@@ -177,7 +177,7 @@ var silverspannetOverlay = document.getElementById("overlay");
 /*************************************************************************************************************/
 /*************************************************************************************************************/
 /*************************************************************************************************************/
-console.log('här börjar netlify');
+//console.log('här börjar netlify');
 const sidTitel = document.getElementById('sidTitel');
 const ingress = document.getElementById('ingress');
 const fromCMS = document.getElementById('fromCMS');
@@ -188,7 +188,7 @@ let getPageName = () => {
   return window.location.toString().slice(lastSlashAt);
 
 }
-console.log(getPageName());
+//console.log(getPageName());
 
 // let data = fetch('../md' + getPageName().replace(".html", ".md"))
 //   .then(response => response.text()).then(result => {
@@ -198,7 +198,7 @@ console.log(getPageName());
 //     console.log(yamlAsObject);
 //   });
 
-console.log('nästa steg kollar');
+//console.log('nästa steg kollar');
 // Kollar om script som krävs för CMS:et finns med..
 //let scriptsAsArray = Array.prototype.slice.call(document.getElementsByTagName('script'));
 //let mappedScripts = scriptsAsArray.map(function (value, index){
@@ -207,9 +207,15 @@ console.log('nästa steg kollar');
 
     // Hämtar data från aktuell HTML-sida   Tanken här är att alla HTML-sidor har samma namn som respektive MD-fil.
     let data = fetch('../md' + getPageName().replace(".html", ".md"))
-    .then(response => response.text()).then(result => {
+    .then((response) => {
+      if (response.ok) {
+        return response.text();
+      } else {
+        throw new Error('No such file availiable.');
+      }
+    }).then((result) => {
 
-      console.log(result);
+      //console.log(result);
       // Konverterar YAML till objekt.
       let yamlAsObject = yamlFront.loadFront(result);
       //console.log(yamlAsObject);
@@ -301,7 +307,7 @@ console.log('nästa steg kollar');
           fromCMS.innerHTML += mallForHTMLDansgrupp;
         }
         else if(getPageName() === "/ovasjalv.html"){
-          console.log(stripHtml(converter.makeHtml(key.http)));
+          //console.log(stripHtml(converter.makeHtml(key.http)));
           let mallForHTMLOvasjalv = `
             <div class="dansgrupp">
               <div class="dansgruppRubrik">
@@ -343,7 +349,10 @@ console.log('nästa steg kollar');
 
 
 
+    }).catch(error => {
+      console.error(error);
     });
   //}
 //});
 
+;
