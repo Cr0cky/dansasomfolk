@@ -4,12 +4,128 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-02-08T15:56:22.610Z
+      title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
+      body: >-
+        Här kommer en hälsning från Finlandssvenska Folkdansringen och från
+        distriktets styrelse som höll möte 8.2.2021: 
+
+
+        **Var står Folkdansringen idag? Vart vill Folkdansringen komma? Hur kommer vi dit?**
+
+
+        Årsmötet 11.10.2020 beslöt att man skall komma igång med strategiarbetet trots att det inplanerade seminariet inhiberades p.g.a. coronasituationen.
+
+
+        Styrelsen för Folkdansringen har som uppgift att bilda fem olika strategigrupper bestående av 4 – 5 personer/grupp. Gruppernas uppdrag är att arbeta fram strategiförslag för olika delområden. Verkställande utskottet är den koordinerandeinstansen som sammanställer strategihelheten utgående från gruppernas förslag.
+
+
+        Grupperna är som följer:
+
+
+        1. **Media- och marknadsföringsgruppen.** 
+
+        2. **Verksamhetsgruppen; på vilket sätt skall Folkdansringen stödja sina medlemmars (distriktens) verksamhet?**
+
+        3. **Nätverk-gruppen som diskuterar strategier för nationellt och internationellt samarbete och nätverkande.** 
+
+        4. **Ekonomigruppen; hur få inkomster och finansiering för att arrangera verksamheten?**
+
+        5. **Gruppen för barns och ungdomars verksamhet.**
+
+
+        Grupperna ska diskutera utgående från de tre riktgivande frågorna:
+
+
+        * **Var står vi idag?** 
+
+        * **Vart vill vi komma?** 
+
+        * **Hur kommer vi dit?**
+
+
+        Strategin läggs upp för fem år åt gången, den första perioden är åren 2022 – 2027. En ny strategi formuleras innan den föregående löpt ut.
+
+
+        **Grupperna samlas virtuellt**  och avlägger sina mellanrapporter på Folkdansringens årsmöte våren 2021.
+
+
+        Ett strategiseminarium ordnas i Tammerfors 30–31.10.2021, där grupperna presenterar sina tankar och seminariedeltagarna får aktivt komma med synpunkter och förslag.
+
+
+        **Tycker du detta låter intressant? Anmäl dig till Folkdansringens kansli senast 28.2.2021 (folkdansringen@folkdans.fi).**
+      image: /images/uploads/mellerasta-österbottens-folkdansditrikts-styrelsemöte.jpg
+    - date: 2021-02-01T11:45:51.307Z
+      title: Inga dansövningar under februari.
+      body: >-
+        I fredags (29.1) kom beskedet vi väntat på. På torsdagen hade AVs grupp
+        övning och Vörå dansade igår söndag sin övning för sista gången innan
+        pausen. 
+
+
+        Vi är noggranna med att följa Sjukhusdistriktets rekommendationer. Vörå följer dessutom Vörå MIs beslut om att ställa in under februari. Därmed är det paus i dansandet fram till efter sportlovet (Sportlov första veckan i mars).
+
+
+        Men sörj inte, vi har flera dansvideor, dels teknik och timmar som ni kan göra hemma. Röj undan soffbordet eller dansa i hallen och sätt på en video.
+      image: /images/uploads/dansav2017.jpg
+    - date: 2021-02-01T10:21:21.794Z
+      title: Dansläger för juniorer på Norrvalla i sommar.
+      image: /images/uploads/dansläger2.gif
+      body: >-
+        
+
+        I sommar ordnas det både spelmansstämma och ett dansläger för juniorer på Norvalla.  Vi kommer att återkomma senare i vår med anmälningsuppgifter och annat som kan vara intressant att veta innan lägret. 
+
+
+
+
+        I mars beslutar Finlandssvensk spelmanförbunddet om det blir en spelmansstämma. Eftersom lägret är kopplat till spelmansstämman påverkar det även om danslägret arrangeras. 
+
+
+        Följ med här eller i våra sociala media för aktuellt.
+    - date: 2021-01-26T09:10:11.023Z
+      title: Årsmöte för Mellersta Österbottens folkdansdistrikt hålls 10.3.2021.
+      body: >-
+        Årsmötet hålls på att möte hålls på distans detta år. Vi följer
+        myndigheternas rekommendationer och har därmed valt att hålla mötet på
+        distans. Eftersom deltagarna behöver en länk är det viktigt att ni
+        anmäler er **senast** 3.3.2021 till ***mo.folkdans@gmail.com.***
+
+
+        Medlemmar får gärna delta i mötet och är man intresserad av att delta i styrelsen kan du anmäla det till *mo.folkdans@gmail.com*.
+
+
+
+
+        #### **Datum:** 10.3.2021
+
+
+        #### **Tid:** 18.00
+
+
+        #### **Plats:** hålls digitalt.
+      image: /images/uploads/fsfmöte2020.jpg
+    - date: 2021-01-26T09:06:32.268Z
+      title: Vårens verksamhet är igång men Covid-19 påverkar.
+      body: >-
+        I Vörå inleddes våren söndag 17.1.2021. Ta kontakt med Vörå MI eller
+        Gösta Småros om du vill vara med.
+
+
+        I Vasa inledde endast AV sin danskurs torsdag 21.1.2021 kl.19 på Formansgatan 14. Gruppen dansar mest solo och dansar de med par så får endast par som delar hushåll dansa tillsammans, övriga dansar med Laban eller Labolina. Munskydd rekommenderas.
+
+
+        Brage väntar ännu med att inleda sitt dansade.
+
+
+        Solf har planerat att inleda sin verksamhet i mars om Covid-19-situationen är mer gynnsam. Anmälningar sker via Korsholms vuxeninstitut.
+      image: /images/uploads/folkdans-i-österbotten.jpg
     - date: 2020-10-19T11:39:31.736Z
       title: Solf Folkdanslag håller paus under hösten
       body: Under hösten är tar Solf folkdanslag paus på grund av coronaepidemin.
         Instruktör Annina Ylikoski kommer att i våra sociala medier förklara mer
         om orsakerna. Efter julen förväntas verksamheten vara igång igen.
-      image: /images/uploads/newspaper.jpg
+      image: /images/uploads/tolbyhf.jpg
     - date: 2020-09-01T11:38:21.313Z
       title: Flera danskurser ordnas av Vörå MI i folkiga danstraditioner
       body: "Under hösten ordans en längre kurs i allmogedans och två kortkurser i
@@ -27,7 +143,7 @@ intro:
         (familjer) och 15-15.45 (vuxna). Priset: 15e. Mer information om kursen
         finns på våra sidor i facebook och instagram. Anmälan via [Vörå
         medborgarinstitut](https://www.vora.fi/kultur-och-fritid/vomi)."
-      image: /images/uploads/newspaper.jpg
+      image: /images/uploads/arbetetsvannercompress.jpg
     - date: 2020-06-11T11:30:21.183Z
       title: dansa som Folk! instruerar i ditt vardagsrum
       body: >-
