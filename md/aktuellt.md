@@ -54,7 +54,7 @@ intro:
 
 
         **Tycker du detta låter intressant? Anmäl dig till Folkdansringens kansli senast 28.2.2021 (folkdansringen@folkdans.fi).**
-      image: /images/uploads/mellerasta-österbottens-folkdansditrikts-styrelsemöte.jpg
+      image: /images/uploads/mellerasta-österbottens-folkdansditrikts-styrelsemöte.2.jpg
     - date: 2021-02-01T11:45:51.307Z
       title: Inga dansövningar under februari.
       body: >-
@@ -67,7 +67,7 @@ intro:
 
 
         Men sörj inte, vi har flera dansvideor, dels teknik och timmar som ni kan göra hemma. Röj undan soffbordet eller dansa i hallen och sätt på en video.
-      image: /images/uploads/dansav2017.jpg
+      image: /images/uploads/dansav2017.2.jpg
     - date: 2021-02-01T10:21:21.794Z
       title: Dansläger för juniorer på Norrvalla i sommar.
       image: /images/uploads/dansläger2.gif
