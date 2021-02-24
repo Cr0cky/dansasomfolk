@@ -4,6 +4,22 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-02-24T16:08:29.951Z
+      title: Kom med och delta i diskussionen om marknadsföring av folkdans.
+      body: >-
+        Det är lugnt i Österbotten på många fronter, främst när det gäller
+        vuxnas aktiviteter då vuxnas aktiviteter är begränsade fram till
+        31.3.2021. 
+
+
+        Men istället passar Finlandssvenska folkdansring på att förnya verksamheten. Först ut i förnyelse- och strategigruppen som inbjuder till ett **öppet virtuellt möte torsdag 11.3.2021 kl.18.** 
+
+
+        **Länk:** https://meet.google.com/bua-jrsb-awt
+
+
+        Ingen föranmälan behövs.
+      image: /images/uploads/fsf-strategiträff-11.3.2021.jpg
     - date: 2021-02-08T15:56:22.610Z
       title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
       body: >-
