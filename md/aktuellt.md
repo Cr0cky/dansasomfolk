@@ -12,13 +12,21 @@ intro:
         31.3.2021. 
 
 
-        Men istället passar Finlandssvenska folkdansring på att förnya verksamheten. Först ut i förnyelse- och strategigruppen som inbjuder till ett **öppet virtuellt möte torsdag 11.3.2021 kl.18.** 
+        Men istället passar Finlandssvenska folkdansring på att förnya verksamheten. Först ut i förnyelse- och strategigruppen som inbjuder till ett **öppet virtuellt möte torsdag 11.3.2021 kl.18-19.** 
 
 
         **Länk:** https://meet.google.com/bua-jrsb-awt
 
 
         Ingen föranmälan behövs.
+
+
+
+
+        Diskussion om strategiförslag gällande media och marknadsföring. 
+
+
+        Moderator: Markus Vähä-Koskela
       image: /images/uploads/fsf-strategiträff-11.3.2021.jpg
     - date: 2021-02-08T15:56:22.610Z
       title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
