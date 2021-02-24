@@ -26,6 +26,18 @@ intro:
 
         Ingen föranmälan behövs.
       image: /images/uploads/fsf-strategiträff-11.3.2021.jpg
+    - date: 2021-02-18T16:04:00.000Z
+      title: Ett uppehåll i produktionen av bruten schottis.
+      body: >-
+        Den sista och tredje delen i Bruten schottis produceras under vecka 10.
+        De två första delarna finns på Youtube.
+
+
+        **Del 1:** [bit.ly/bruten1](bit.ly/bruten1)
+
+
+        **Del 2:** [bit.ly/bruten2](bit.ly/bruten2)
+      image: /images/uploads/newspaper.jpg
     - date: 2021-02-08T15:56:22.610Z
       title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
       body: >-
@@ -194,17 +206,5 @@ intro:
 
 
         Anmälan: senast 18.9. Tel. 040-3523688, eller e-post: folkdansringen@folkdans.fi. eller [](https://folkdans.fi/kurser/)[Folkdansringen](https://folkdans.fi/kurser/).
-      image: /images/uploads/newspaper.jpg
-    - date: 2021-02-18T16:04:00.000Z
-      title: Ett uppehåll i produktionen av bruten schottis.
-      body: >-
-        Den sista och tredje delen i Bruten schottis produceras under vecka 10.
-        De två första delarna finns på Youtube.
-
-
-        **Del 1:** [bit.ly/bruten1](bit.ly/bruten1)
-
-
-        **Del 2:** [bit.ly/bruten2](bit.ly/bruten2)
       image: /images/uploads/newspaper.jpg
 ---
