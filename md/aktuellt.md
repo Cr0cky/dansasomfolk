@@ -23,7 +23,7 @@ intro:
 
 
 
-        Diskussion om strategiförslag gällande media och marknadsföring. 
+        ###### Diskussion om strategiförslag gällande media och marknadsföring. 
 
 
         Moderator: Markus Vähä-Koskela
