@@ -37,7 +37,7 @@ intro:
 
 
         **Del 2:** [bit.ly/bruten2](bit.ly/bruten2)
-      image: /images/uploads/newspaper.jpg
+      image: /images/uploads/bruten-schottis-del-2-bilden.jpg
     - date: 2021-02-08T15:56:22.610Z
       title: Finlandssvenska folkdansringens strategi  - Vill du vara med?
       body: >-
