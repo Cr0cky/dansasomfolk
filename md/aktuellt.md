@@ -168,7 +168,7 @@ intro:
         (familjer) och 15-15.45 (vuxna). Priset: 15e. Mer information om kursen
         finns på våra sidor i facebook och instagram. Anmälan via [Vörå
         medborgarinstitut](https://www.vora.fi/kultur-och-fritid/vomi)."
-      image: /images/uploads/newspaper.jpg
+      image: /images/uploads/karvsorskolacompress.jpg
     - date: 2020-09-01T11:36:45.989Z
       title: Danskurs för noviser på AV
       body: "Under hösten ordans en längre kurs i allmogedans och två kortkurser i
