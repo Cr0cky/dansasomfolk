@@ -4,6 +4,30 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-03-23T16:09:57.124Z
+      title: Folkmusikkurs med danslektioner i Jakobstad
+      body: >-
+        En spelkurs riktat till barn, unga och vuxna ordnas i Jakobstad 14-18.6.
+        2021 kl.10-15. Johannan Lönngren och Susanna Halden är spellärare och
+        dansen lärs ut av Jessica Krohn. Kursen ordnas på Jakobstads gymansium.
+
+
+
+
+        ### Anmälan: arbis.jakobstad.fi 
+
+
+        under namnet  Musik och dans i juni.
+
+
+        **eller telefonnummer 06-78 63 264**
+
+
+        ### Pris: 30 e (egen matsäck)
+
+
+        ### Anmälan senast 7.6.2021
+      image: /images/uploads/musik-och-dans-i-juni-i-jakobstad.jpg
     - date: 2021-02-24T16:08:29.951Z
       title: Kom med och delta i diskussionen om marknadsföring av folkdans.
       body: >-
