@@ -4,6 +4,15 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-04-05T16:30:18.250Z
+      title: INHIBERAT Dansläger för juniorer på Norvalla.
+      body: >-
+        Finlandssvenska folkdansringen beslöt att inhiberar danslägret på
+        Norvalla 2-4.7.2021 på grund av det rådande Covid-19-läget i Finland. 
+
+
+        När ett läger för juniorerna ordnas vet vi inte ännu men vi hoppas att ett läger i Österbotten för juniorer kan ordnas snart.
+      image: /images/uploads/dansläger.norvalla.inhiberat.gif
     - date: 2021-03-23T16:09:57.124Z
       title: Folkmusikkurs med danslektioner i Jakobstad
       body: >-
