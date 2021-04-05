@@ -4,6 +4,28 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-04-05T16:54:11.973Z
+      title: Folkdansringens strategiträff om samarbete nationellt och
+        internationellt.
+      body: >-
+        Folkdansringen (FSF) ordnar träffar på nätet där medlemmar fritt får
+        diskutera och kasta fram idéer om Folkdansringens framtid.
+
+
+        Den tredje träffen ordnas onsdag 7.4 med start kl. 18.00 och då **diskuteras strategier för nationellt och internationellt samarbete/nätverkande**.
+
+
+        När: onsdag 7.4.2021 kl.18-19
+
+
+        **Moderator:** Johnnyn Sved, tidigare ordförande för FSF
+
+
+        **Länk:** via[ https://www.facebook.com/events/125110609583611](https://www.facebook.com/events/125110609583611)
+
+
+        Träffarna på nätet är en timme långa. Man behöver inte anmäla sig i förväg, det räcker med att man loggar in sig på länken till träffen.
+      image: /images/uploads/mellerasta-österbottens-folkdansditrikts-styrelsemöte.2.jpg
     - date: 2021-04-05T16:30:18.250Z
       title: INHIBERAT Dansläger för juniorer på Norvalla.
       body: >-
