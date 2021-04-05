@@ -11,7 +11,7 @@ intro:
         Norvalla 2-4.7.2021 på grund av det rådande Covid-19-läget i Finland. 
 
 
-        När ett läger för juniorerna ordnas vet vi inte ännu men vi hoppas att ett läger i Österbotten för juniorer kan ordnas snart.
+        När ett läger för juniorerna ordnas vet vi inte ännu men vi hoppas att ett läger i Österbotten för juniorer kan ordnas snart. Men i väntan på ett dansläger för juniorer kan ni hoppa på lägret i Jakobstad. Ta kontakt med arrangörerna om ni är nybörjare.
       image: /images/uploads/dansläger.norvalla.inhiberat.gif
     - date: 2021-03-23T16:09:57.124Z
       title: Folkmusikkurs med danslektioner i Jakobstad
