@@ -71,9 +71,7 @@ intro:
         understöd när gruppen är ute och reser, vilket sker ibland.
 
 
-
-
-        **Gruppen dansar enligt**
+        **Gruppen dansar enligt rekommendationerna.**
       plats: " Arbetets Vänner, Vasa"
       tid: tordagar kl.19:00-20:30, måndagar
       ledare: Anna Sundback, Magnus Sundfors
