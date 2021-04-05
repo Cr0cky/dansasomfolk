@@ -63,7 +63,7 @@ intro:
     - date: 2020-10-19T11:50:59.348Z
       title: Arbetets vänners folkdans
       body: >-
-        Hösten 2019 förändras verksamheten mycket. Vi är ett nybörjarlag som
+        Hösten 2019 förändrades verksamheten mycket. Vi är ett nybörjarlag som
         under hösten dansar pardanser. Vi lär ut vals, schottis, polka, mazurka
         och andra danser vi kommer på eller deltagarna önskar. Inom Arbetes
         Vänner fungerar verksamheten så att man får vara med och dansa gratis
@@ -73,7 +73,7 @@ intro:
 
 
 
-        **Gruppen dansar enligt rekommendantionerna.**
+        **Gruppen dansar enligt**
       plats: " Arbetets Vänner, Vasa"
       tid: tordagar kl.19:00-20:30, måndagar
       ledare: Anna Sundback, Magnus Sundfors
