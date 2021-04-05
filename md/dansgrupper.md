@@ -7,13 +7,19 @@ intro:
   blurbs:
     - date: 2020-10-19T07:41:34.735Z
       title: " Silverspännet"
-      body: Silverspännet är en experimentgrupp, vi lär ut nybörjare, polskor från
+      body: >-
+        Silverspännet är en experimentgrupp, vi lär ut nybörjare, polskor från
         hela norden och dansar krävande program till popmusik. Vi välkomnar alla
         som vill lära sig och utvecklas. Vi har inte egna par så kom ensam eller
         tillsammans. Vi tipsar om skor och annat man kan behöva men uppträder
         sällan i folkdräkt. Lättast att få kontakt med oss är via vår grupp i
         Facebook. Vår verksamhet är gratis men vill du vara med i Arbetets
         Vänner så betalar du medlemsavgift.
+
+
+
+
+        **År 2020-2021 satsar vi på att utveckla digital dans.**
       plats: " Arbetets Vänner, Vasa "
       tid: Torsdag (2019) kl.18:00-19:00
       ledare: "Anna Sundback, Magnus Sundfors "
