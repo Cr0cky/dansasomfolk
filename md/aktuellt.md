@@ -52,7 +52,7 @@ intro:
         Anmälningstiden är öppen 31.3–21.4.2021. Man kan välja att delta i hela dagen eller endast i valda delar. Anmälan är obligatorisk.
 
 
-        Anmälan görs här: [https://blogs2.abo.fi/dansensdag/anmalan/](https://blogs2.abo.fi/dansensdag/anmalan/?fbclid=IwAR2H5Li1mi8JS5K_buiiuno7Do9v5w63jts5gEJ-rOZxvc56-HNm9ejnRws)
+        **Anmälan görs här:** [https://blogs2.abo.fi/dansensdag/anmalan/](https://blogs2.abo.fi/dansensdag/anmalan/?fbclid=IwAR2H5Li1mi8JS5K_buiiuno7Do9v5w63jts5gEJ-rOZxvc56-HNm9ejnRws)
 
 
         Webbinariet arrangeras i samarbete med Åbo Akademi, Regionala danscentret i Österbotten och Barnkulturnätverket i Österbotten BARK.
@@ -64,7 +64,7 @@ intro:
         Dansens dag i skolan understöds av Svensk-Österbottniska samfundet och Åbo Akademi. 
 
 
-        Länk till evenemanget:
+        **Länk till evenemanget:**
 
 
         <https://www.facebook.com/events/818437259015673/>
