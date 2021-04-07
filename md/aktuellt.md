@@ -20,7 +20,7 @@ intro:
         Pris: 100€ heldagsläger och 50€ halvdagsläger, syskonrabatt 10€ (på heldagslägren serveras förutom mellanmål även ett varmt mål om dagen).
 
 
-        **Anmälan senast 24.5 till Folkdansringens kansli.**
+        **Anmälan senast 24.5 till Folkdansringens kansli (folkdansringen@folkdans.fi eller 040-325 36 88).**
 
 
         Det behövs minst 16 anmälda för att lägret ordnas.
@@ -52,9 +52,7 @@ intro:
         Anmälningstiden är öppen 31.3–21.4.2021. Man kan välja att delta i hela dagen eller endast i valda delar. Anmälan är obligatorisk.
 
 
-        Anmälan görs här:\
-
-        [https://blogs2.abo.fi/dansensdag/anmalan/](https://blogs2.abo.fi/dansensdag/anmalan/?fbclid=IwAR2H5Li1mi8JS5K_buiiuno7Do9v5w63jts5gEJ-rOZxvc56-HNm9ejnRws)
+        Anmälan görs här: [https://blogs2.abo.fi/dansensdag/anmalan/](https://blogs2.abo.fi/dansensdag/anmalan/?fbclid=IwAR2H5Li1mi8JS5K_buiiuno7Do9v5w63jts5gEJ-rOZxvc56-HNm9ejnRws)
 
 
         Webbinariet arrangeras i samarbete med Åbo Akademi, Regionala danscentret i Österbotten och Barnkulturnätverket i Österbotten BARK.
