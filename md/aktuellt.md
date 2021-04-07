@@ -26,7 +26,7 @@ intro:
         Det behövs minst 16 anmälda för att lägret ordnas.
 
 
-        På lägren följs myndigheternas och regionens restriktioner gällande coronapandemin.
+        På lägret följs myndigheternas och regionens restriktioner gällande coronapandemin.
       title: Folkkulturläger för barn 5-12 år
       image: /images/uploads/folkkulturläger-för-barn.jpg
     - date: 2021-04-07T16:01:30.555Z
