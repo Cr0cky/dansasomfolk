@@ -4,6 +4,48 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-04-07T16:01:30.555Z
+      title: Dans i skolan
+      body: >-
+        Webbinariet Dans i skolan uppmärksammar dans och kroppsligt lärande i
+        skolan. Evenemanget arrangeras på den internationella dansens dag den 29
+        april 2021.
+
+
+        **Plats:** Zoom
+
+
+        **Tid:** 29 april 2020 kl. 13–17
+
+
+        **Pris:** gratis
+
+
+        Deltagandet i webbinariet är avgiftsfritt. Dagen riktar sig till lärarstuderande, lärare, lärarutbildare, danskonstnärer och -lärare, samt övriga intresserade!
+
+
+        Anmälningstiden är öppen 31.3–21.4.2021. Man kan välja att delta i hela dagen eller endast i valda delar. Anmälan är obligatorisk.
+
+
+        Anmälan görs här:\
+
+        [https://blogs2.abo.fi/dansensdag/anmalan/](https://blogs2.abo.fi/dansensdag/anmalan/?fbclid=IwAR2H5Li1mi8JS5K_buiiuno7Do9v5w63jts5gEJ-rOZxvc56-HNm9ejnRws)
+
+
+        Webbinariet arrangeras i samarbete med Åbo Akademi, Regionala danscentret i Österbotten och Barnkulturnätverket i Österbotten BARK.
+
+
+        Evenemanget ingår i programmet för Temaåret för forskningsbaserad kunskap 2021, ett projekt som genomförs av Undervisnings- och kulturministeriet, Finlands Akademi och Vetenskapliga samfundens delegation.
+
+
+        Dansens dag i skolan understöds av Svensk-Österbottniska samfundet och Åbo Akademi. 
+
+
+        Länk till evenemanget:
+
+
+        <https://www.facebook.com/events/818437259015673/>
+      image: /images/uploads/dans-i-skolan.jpg
     - date: 2021-04-05T16:54:11.973Z
       title: Folkdansringens strategiträff om samarbete nationellt och
         internationellt.
