@@ -4,6 +4,31 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-04-07T16:07:35.966Z
+      body: >-
+        Här är ett till läger för barn:
+
+
+
+
+        **21-24.6 kl. 9-13 på Vikingborg i Böle, Korsholm**
+
+
+        På lägren får man leka, sjunga, dansa, baka, pyssla, göra utflykter, mm.
+
+
+        Pris: 100€ heldagsläger och 50€ halvdagsläger, syskonrabatt 10€ (på heldagslägren serveras förutom mellanmål även ett varmt mål om dagen).
+
+
+        **Anmälan senast 24.5 till Folkdansringens kansli.**
+
+
+        Det behövs minst 16 anmälda för att lägret ordnas.
+
+
+        På lägren följs myndigheternas och regionens restriktioner gällande coronapandemin.
+      title: Folkkulturläger för barn 5-12 år
+      image: /images/uploads/folkkulturläger-för-barn.jpg
     - date: 2021-04-07T16:01:30.555Z
       title: Dans i skolan
       body: >-
