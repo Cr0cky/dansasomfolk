@@ -21,7 +21,7 @@ intro:
         **Moderator:** Johnnyn Sved, tidigare ordförande för FSF
 
 
-        **Länk:** via[ https://www.facebook.com/events/125110609583611](https://www.facebook.com/events/125110609583611)
+        **Länk:**  [shorturl.at/pqN24](http://shorturl.at/pqN24?fbclid=IwAR3SMzQ8QtuFphhBvNQpW2O6KU-rmZTIGN5l5kODogVOuoLzcKSHhSzTp9Y)[](https://www.facebook.com/events/125110609583611)
 
 
         Träffarna på nätet är en timme långa. Man behöver inte anmäla sig i förväg, det räcker med att man loggar in sig på länken till träffen.
