@@ -327,4 +327,26 @@ intro:
 
         Anmälan: senast 18.9. Tel. 040-3523688, eller e-post: folkdansringen@folkdans.fi. eller [](https://folkdans.fi/kurser/)[Folkdansringen](https://folkdans.fi/kurser/).
       image: /images/uploads/newspaper.jpg
+    - date: 2021-05-17T06:40:50.857Z
+      title: Vi har blivit utmanade att filma en Jerusalemautmaning. KOM MED!
+      body: >-
+        På torsdag 20.5.2021 lär vi ut Jerusalema på Strömsö. Vi kommer att
+        filma men du behöver inte vara med i filmen. Vi dansar till både den
+        ursprungliga musiken och till den du hör i videon.
+
+
+        Vi dansar oberoende av väder och är det fint väder kan vi även annat kul tillsammans. Alla är välkomna med!
+
+
+        TID: 20.5 kl.19-20.30
+
+
+        PLATS: Strömsö
+
+
+        Här kommer en film som du kan förbereda dig om du vill.
+
+
+        <https://www.youtube.com/embed/eXdFA8HgIwU>
+      image: /images/uploads/jerusalemautmaning.jpg
 ---
