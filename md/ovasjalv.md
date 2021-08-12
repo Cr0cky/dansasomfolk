@@ -71,6 +71,14 @@ intro:
       body: >
         När du lärt dig grundsteget i del 1 är det dags att börja dansa runt med
         en kompis.
+    - date: 2021-08-12T12:39:00.974Z
+      http: https://www.youtube.com/embed/nYGMDi1aJQ4
+      title: Hoppschottis del 3
+      body: Nu har vi kommit till den svåraste varianten som har två rotationer. Först
+        en rotation och så fortsätter man med rotationen och schottissteget som
+        i del 2. En förutsättning för att lära sig denna
+        schottsiförstegsvarianten är att man klara av det som lärs ut i del 1
+        och del 2.
     - date: 2021-02-01T11:57:12.224Z
       http: https://www.youtube.com/embed/vtqcOtlo6VU
       title: Tango Easy (Enkel tango för solodansare)
@@ -85,6 +93,11 @@ intro:
 
 
         Vi har på övningen även dansat till KAJs *Tango taas*.
+    - date: 2021-08-12T12:33:23.784Z
+      body: Har du inte ännu hunnit lära dig Jerusalema men vill lära dig?  Här kommer
+        instruktionerna.
+      http: https://www.youtube.com/embed/eXdFA8HgIwU
+      title: Jerusalema
     - date: 2020-06-07T12:04:33.172Z
       title: Menuett från Lappfjärd
       body: |-
