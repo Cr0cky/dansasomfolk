@@ -4,6 +4,11 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-08-12T12:19:25.736Z
+      title: Vi bygger om vår första sida.
+      body: Inom snar framtid får vår hemsida ett ny och bättre förstasida. Vi skall
+        göra det lättare för er att hitta det ni letar efter.
+      image: /images/uploads/bygger-om-dansasomfolk.fi.jpg
     - date: 2021-08-12T12:07:13.861Z
       title: Höstens dansverksamhet.
       body: >-
