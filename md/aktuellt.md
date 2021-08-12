@@ -4,6 +4,20 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-08-12T12:07:13.861Z
+      title: Höstens dansverksamhet.
+      body: >-
+        Ni som bor i Österbotten kan ha fått reklam för olika kursstarter. Även
+        vi har funderat på start men det vi avvaktar är vilka begränsningar som
+        ges i Vasa sjukvårdsdistrikt. För tillfället är det max 10 personer och
+        med munskydd som gäller inomhus.
+
+
+        Vi kommer att börja annonsera för nybörjarkursen den 23.8. **Kursstart 16.9 kl.19.00 på Arbetesvänner (Formansgatan 14).** Om det är möjligt. Gamla dansare kan komma redan torsdag 9.9. kl.19 och repetera.
+
+
+        Vad gör de andra lagen i Österbotten? Så fort vi får kännedom meddelar vi här och i våra sociala kanaler.
+      image: /images/uploads/danserna-tillbaka-i-vbl.jpg
     - date: 2021-05-17T06:40:50.857Z
       title: Vi har blivit utmanade att filma en Jerusalemautmaning. KOM MED!
       body: >-
