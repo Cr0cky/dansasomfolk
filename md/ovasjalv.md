@@ -73,7 +73,7 @@ intro:
         en kompis.
     - date: 2021-08-12T12:39:00.974Z
       http: https://www.youtube.com/embed/nYGMDi1aJQ4
-      title: Hoppschottis del 3
+      title: Bruten schottis del 3
       body: Nu har vi kommit till den svåraste varianten som har två rotationer. Först
         en rotation och så fortsätter man med rotationen och schottissteget som
         i del 2. En förutsättning för att lära sig denna
@@ -107,4 +107,25 @@ intro:
 
         Det brukar ta tid att lära sig alla delar i en menuett.
       http: https://www.youtube.com/embed/f23DKQwQirg
+    - date: 2021-08-12T12:42:21.793Z
+      title: Bruten schottis del 1
+      body: >-
+        Ännu en variant på schottis som man med fördel kan dansa till stigare
+        (alltså mindre hoppig schottis). Här börjar vi med basvarianten.
+
+
+
+
+        Långsammare schottisar rekommenderas här är en lista som fungerar bra. 
+
+
+        Musik som passar till dagens övning med V- dala Spelmanslag: https://youtu.be/gazyXFbvBVU Böl Olles Schottis https://youtu.be/tf2C0UmLvHI "Ja, dä gör vi" schottish Mats Edén https://youtu.be/snXstD8CWSM "Trollhaugen" schottis
+      http: https://www.youtube.com/embed/C1pdcDrimRY
+    - date: 2021-08-12T12:42:22.149Z
+      title: Bruten schottis del 2
+      http: https://www.youtube.com/embed/hLH7j3lvXVA
+      body: I denna del går vi snabbt igenom det viktigaste för det enklare roterande
+        mellansteget. En förutsättning för att lära sig denna
+        schottsiförstegsvarianten är att man klara av det som lärs ut i del 1.
+        För övrigt gäller allt som i del 1.
 ---
