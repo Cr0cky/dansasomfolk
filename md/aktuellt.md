@@ -8,7 +8,7 @@ intro:
       title: Vi bygger om vår första sida.
       body: Inom snar framtid får vår hemsida ett ny och bättre förstasida. Vi skall
         göra det lättare för er att hitta det ni letar efter.
-      image: /images/uploads/bygger-om-dansasomfolk.fi.jpg
+      image: /images/uploads/bygger-om-dansasomfolk.fi-nu.jpg
     - date: 2021-08-12T12:07:13.861Z
       title: Höstens dansverksamhet.
       body: >-
