@@ -4,6 +4,19 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-09-29T13:56:49.899Z
+      title: "Verskamhet igång: Kom med och dansa äldre och nyare pardanser i Vasa."
+      body: >-
+        På Arbetes vänners torsdagar kl.19 kan man med eller utan danserfarenhet
+        komma och lära sig pardanser. Vissa är mer bekanta men vi lovar att även
+        den vana dansare får en utmaning. 
+
+
+        Har du till exempel dansat polkkabugg? 
+
+
+        I Vörå kan du kolla med MI <https://www.vora.fi/kultur-och-fritid/vomi/> när du kan dansa i Vörå.
+      image: /images/uploads/danspaav2021.jpg
     - date: 2021-08-12T12:19:25.736Z
       title: Vi bygger om vår första sida.
       body: Inom snar framtid får vår hemsida ett ny och bättre förstasida. Vi skall
