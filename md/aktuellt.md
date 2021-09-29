@@ -6,7 +6,7 @@ intro:
   blurbs:
     - date: 2021-09-29T14:07:34.932Z
       image: /images/uploads/årsprogramkurs.vörå.3.10.21.jpg
-      title: Dansa uppställningsdanser i Berby UF 3.10.21 kl.14-17
+      title: Dansa uppställningsdanser i Bertby UF 3.10.21 kl.14-17
       body: >-
         På lördag eftermiddag kan du komma och dansa uppställningsdanser och
         några pardanser på Bertby UF. 
@@ -21,7 +21,7 @@ intro:
 
          **Anmälan till dansasomfolk@gmail.com**
     - date: 2021-09-29T13:56:49.899Z
-      title: Kom med och dansa äldre och nyare pardanser i Vasa.
+      title: Kom med och dansa äldre och nyare pardanser i Vasa
       body: >-
         På Arbetes vänners torsdagar kl.19 kan man med eller utan danserfarenhet
         komma och lära sig pardanser. Vissa är mer bekanta men vi lovar att även
