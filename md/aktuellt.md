@@ -15,6 +15,9 @@ intro:
         Har du till exempel dansat polkkabugg? 
 
 
+        Anmälan och frågor på dansasomfolk@gmail.com
+
+
         I Vörå kan du kolla med MI <https://www.vora.fi/kultur-och-fritid/vomi/> när du kan dansa i Vörå.
       image: /images/uploads/danspaav2021.jpg
     - date: 2021-08-12T12:19:25.736Z
