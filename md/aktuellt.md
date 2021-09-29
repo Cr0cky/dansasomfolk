@@ -21,7 +21,7 @@ intro:
 
          **Anmälan till dansasomfolk@gmail.com**
     - date: 2021-09-29T13:56:49.899Z
-      title: "Verskamhet igång: Kom med och dansa äldre och nyare pardanser i Vasa."
+      title: Kom med och dansa äldre och nyare pardanser i Vasa.
       body: >-
         På Arbetes vänners torsdagar kl.19 kan man med eller utan danserfarenhet
         komma och lära sig pardanser. Vissa är mer bekanta men vi lovar att även
