@@ -4,6 +4,22 @@ description: "Aktuella händelser, nya projekt, övningstider. Här hittar du al
   som är på gång. Du kan också kontakta oss om du har något som passar in här. "
 intro:
   blurbs:
+    - date: 2021-09-29T14:07:34.932Z
+      image: /images/uploads/årsprogramkurs.vörå.3.10.21.jpg
+      title: Dansa uppställningsdanser i Berby UF 3.10.21 kl.14-17
+      body: >-
+        På lördag eftermiddag kan du komma och dansa uppställningsdanser och
+        några pardanser på Bertby UF. 
+
+
+
+
+        Kursen leds av riksinstruktör Tette Westerholm. 
+
+
+        Ta gärna med vattenflaska och mellanmål.
+
+         **Anmälan till dansasomfolk@gmail.com**
     - date: 2021-09-29T13:56:49.899Z
       title: "Verskamhet igång: Kom med och dansa äldre och nyare pardanser i Vasa."
       body: >-
